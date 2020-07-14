@@ -1,0 +1,1509 @@
+School of Computer Science and Eng., International University-VNUHCM, Viet Nam
+Computer Vision and Robotics, University of Science, VNU-HCMC, Ho Chi Minh City, Viet Nam
+School of Business, International University, VNU-HCMC, Ho Chi Mnh, Viet Nam
+Department of Plant Biotechnology and Biotransformation, Faculty of Biology, Ho Chi Minh City University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Department of Power Systems, HCMC University of Technology, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh University of Technology, 268 Ly Thuong Kiet, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University, Viet Nam
+Ho Chi Minh City International University, Vietnam National University Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Vietnam National University, Ho Chi Minh, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+National Key Lab for Polymer and Composite, Faculty of Materials Technology, Ho Chi Minh City University of Technology, Vietnam National University-Ho Chi Minh City, Ho Chi, Minh City, Viet Nam
+Cancer Research Laboratory, Vietnam National University, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Institute for Environmental and Resource, 142 To Hien Thanh street, District 10, Hochiminh city, Viet Nam
+Deparment of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, Hochiminh City, 721337, Viet Nam
+School of Medicine, Vietnam National University, Ho Chi Minh, 70000, Viet Nam
+Nuclear Technique Laboratory, VNUHCM-University of Science, 227, Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Dept. of Telecommunication Engineering, HoChiMinh City of University Technology, HoChiMinh City, Viet Nam
+Faculty of Information System, University of Economics and Law, VNU-HCM, Viet Nam
+Stem Cell Research and Application Laboratory, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Molecular Biology Lab, Department of Genetics, Faculty of Biology and Biotechnology, VNUHCM-University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam
+Tissue Engineering and Regenerative Medicine Group, Department of Biomedical Engineering, Vietnam National University-HCMC (VNU-HCMC), International University70000, Viet Nam
+National Institute of Informatics, Japan, University of Science, VNU-HCMC, Viet Nam
+Department of Polymer and Composite Materials, Faculty of Materials Science, University of Science, National University of HCM City (VNU-HCM), 227 Nguyen Van Cu, Viet Nam
+Department of Geomatics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, 703500, Viet Nam
+Department of Mathematics and Computer Science, Ho Chi Minh City University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Power Systems, HCM City University of Technology, 268 Ly Thuong Kiet str., 10th dist., Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University HCM, Viet Nam
+School of Electrical Engineering, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Computer Science, University of Science, Viet Nam
+Department of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Mechanics, Faculty of Mathematics and Computer Science, VNUHCM-University of Science, Viet Nam
+International University, Vietnam National University, HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Environment & Natural Resources, Ho Chi Minh City University of Technology – Vietnam National University, Viet Nam
+Nuclear Technique Laboratory, VNUHCM-University of Science, Viet Nam
+Faculty of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet District 10, Ho Chi Minh City, Viet Nam
+Integrated Circuit Design Research and Education Center, Ho Chi Minh City, Viet Nam
+Integrated Circuit Design Research and Education Center, Viet Nam
+Integrated Circuit Design Research and Education Center, Ho Chi Minh, Viet Nam
+Faculty of Materials Technology, University of Technology, Vietnam National University, HoChiMinh City, Viet Nam
+School of Business, International University, Vietnam National University, Ho Chi Minh City (VNU-HCM), Viet Nam
+Natural Product and Medicinal Chemistry Lab, Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+University of Economics and Law, Khu pho 3, Linh Xuan, Thu Duc, Ho Chi Minh City, Viet Nam
+VNUHCM - University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Ho Chi Minh City, Viet Nam
+Hochiminh City University of Technology, Vietnam National University – Hochiminh City, 268 Ly Thuong Kiet Street, District 10, Hochiminh City, Viet Nam
+Department of Aerospace Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, University of Technology, VNU-HCM, Viet Nam
+Department of Solid State Physics, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, University of Technology, Ho Chi Minh, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet str., Ho Chi Minh City, Viet Nam
+Department of Computer Science, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet, Ho Chi Minh City, District 10, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+John von Neumann Institute, Vietnam National University at Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Biology - Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Environmental Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, District. 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Bach Khoa University, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, 700000, Viet Nam
+Department of Polymer Composites, Faculty of Material Science, University of Sciences, Vietnam National University, Ho Chi Minh City, Viet Nam
+Viet Nam National University Ho Chi Minh City-University of Science, Faculty of Biology, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Natural Product and Medicinal Chemistry Lab, Faculty of Chemistry, Ho Chi Minh City University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Industrial System Engineering, HCM City International University, HCMIU-VNU, HCM City, Viet Nam
+Department of Naval Architecture and Marine Engineering, HCMC University of Technology, HCMC Vietnam National University, Ho Chi Minh City, Viet Nam
+Molecular Biology Lab, Department of Genetics, Faculty of Biology and Biotechnology, VNUHCM-University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCM, Viet Nam
+Department of Telecommunications Engineering, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, 760000, Viet Nam
+Faculty of Computer Science, University of Information Technology, Vietnam National University - Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, VNUHCM-University of Science, 227 Nguyen Van Cu, HoChi Minh City, Viet Nam
+Centre for Environmental Science and Ecology, Institute for Environment and Natural Resources, Vietnam National University of HoChi Minh City760000, Viet Nam
+National Key Lab for Polymer and Composite, University of Technology, Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+University of Science, Vietnam National University, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Physics and Electronics, University of Sciences, Vietnam National University HCMC, Viet Nam
+HCM City Univ., University of Technology, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, 227 Nguyen Van Cu Str, Dist 5, Ho Chi Minh City, 70000, Viet Nam
+Vietnam National University-HCM City, University of Science, Faculty of Biology and Biotechnology, 227 Nguyen Van Cu Street, Ward 4, District 5, Hochiminh City, Viet Nam
+Department of Organic Chemistry, University of Science, National University, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City, University of Information Technology, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, 700000, Viet Nam
+Vietnam National University-Hochiminh City, Cancer Research Laboratory, Hochiminh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU Ho Chi Minh City, Viet Nam
+University of Economics and Law, Ho Chi Minh City, Viet Nam
+Polymer and Composite Materials, University of Science, Vietnam National University, 227 Nguyen Van Cu Street, Ho Chi Minh City, 700000, Viet Nam
+VNUHCMC-University of Science, Laboratory of Molecular Biotechnology, 227 Nguyen Van Cu, Hochiminh, Dist. 5, Viet Nam
+School of Industrial Management (SIM), Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, Ho Chi Minh City, Viet Nam
+National Key Lab of Digital Control and System Engineering, University of Technology, Vietnam National University Ho Chi Minh City, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCMC, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, University of Technology, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University in HCMC, Block 6, Linh Trung Ward, Ho Chi Minh City, Thu Duc District, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), Vietnam National University-Ho Chi Minh(VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Department of Ecology and Evolutionary Biology, HCMC University of Science, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Sciences, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Analysis, Faculty of Mathematics & Computer Science, University of Science, VNU-HCMC, Nguyen Van Cu Street, District 5, Ho Chi Minh City, 700000, Viet Nam
+School of Information Technology, VNUHCM - University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCMC, Ho Chi Minh city, Viet Nam
+Centre of Water Management and Climate Change, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, National University of Hochiminh, Viet Nam
+Ho-Chi-Minh City University of Technology (HCMUT), Vietnam National University HCM City (VNU-HCM), Viet Nam
+Tissue Engineering and Regenerative Medicine Laboratory, Biomedical Engineering Department, International University, Vietnam National University-Ho Chi Minh City (VNU-HCMC), Ho Chi Minh City, Viet Nam
+National Key Laboratory of Digital Control and System Engineering, Hồ Chí Minh City University of Technology, Viet Nam
+Ho Chi Minh City University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University–HCMC, Ho Chi Minh, Viet Nam
+University of Information Technology, National University Ho Chi Minh City, Viet Nam
+Department of Physiology and Animal Biotechnology, Faculty of Biology–Biotechnology and Laboratory of Tissue Engineering and Biomedical Materials, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Power Systems, HCM City University of Technology, 268 Ly Thuong Kiet Street, 10th District, Hcm City, Viet Nam
+Departament of Oceanography, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Software Engineering, University of Lnformation Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+HCMC University of Technology, 268 Ly Thuong Kiet Street, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, HCM University of Science-VNU, 227 Nguyen Van Cu Street, District 5, HCM city, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University-Hochiminh City, Viet Nam
+Department of Electrical and Electronics Engineering, HoChiMinh City University of Technology, VNU, HoChiMinh City, Viet Nam
+Department of Oriental Studies, Ho Chi Minh City University of Humanties and Social Sciences, 10-12 Dinh Tien Hoang, District 1, Ben Nghe Ward, HCMC, Viet Nam
+University of Economics and Laws, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, HCM City, Viet Nam
+Department of Computer Science, University of Information Technology, VNU, HCM City, Viet Nam
+School of Business, International University-Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Transportation Engineering, Bach Khoa University (Formerly known as HCMC University of Technology (HCMUT)), Ho Chi Minh City, 700000, Viet Nam
+Institude of Environmental and Natural Resources, Vietnam National University, HCM City, Viet Nam
+Ho Chi Minh City University of Technology-VNU HCM, Viet Nam
+Faculty of Computer of Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh City University of Technology, Vietnam National University, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Viet Nam National University-HCMC, Thu Duc, Sai Gon, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet Str., District 10, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science, University of Information Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+VNUHCM–School of Medicine and Pharmacy, Quarter 6, Linh Trung WardLinh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University, (VNU-HCMC), Ho Chi Minh City, Viet Nam
+Faculty of Computer Science, University of Information Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+Faculty of Information Technology, University of Science, 227 Nguyen van Cu, Dist. 5, Ho Chi Minh City, Viet Nam
+University of Social Sciences and Humanities, Vietnam National University, 10-12 Dinh Tien Hoang street, Ben Nghe Ward, District 1, Hochiminh City, Viet Nam
+School of Business, International University Vietnam National University of Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+School of Medicine, Vietnam National University, Ho Chi Minh City, Ho Chi Minh, Viet Nam
+University of Information Technology, Vietnam National University, HCM City, Viet Nam
+Nuclear Technique Laboratory, VNUHCM - University of Science, Campus 2, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HCM City University of Technology, Ho Chi Minh, Viet Nam
+Hochiminh City University of Technology, VNU, HCM, Hochiminh, Viet Nam
+Faculty of Environment and Natural Resources, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Aerospace Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+School of Computer Science and Technology, Faculty of Information Technology, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+HiTech Mechatronics Lab, Hochiminh City University of Technology, Viet Nam
+Ho Chi Minh City University of Technology, VNU HCM, Ho Chi Minh City, Viet Nam
+Vietnam National University Ho Chi Minh City, Viet Nam
+HCMC University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, VNU-HCM, Ho Chi Minh, Viet Nam
+Faculty of Computer Network and Communications, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Biology and Biotechnology, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+VNU-HCM, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Engineering, Ho Chi Minh City University of Technology, Viet Nam
+University of Social Science and Humanity, Vietnam National University in Ho Chi Minh City, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University-HCMC, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+School of Industrial Management, Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+IC Design Research and Education Center, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Biomedical Engineering Department, International University of Vietnam National Universities, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University Vietnam National University, Hochiminh City, Viet Nam
+Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+International University- Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Environment, University of Science, Vietnam National University Ho Chi Minh City, Ho Chi Minh, Viet Nam
+Faculty of Environment and Natural Resources, Ho Chi Minh (HCM) City University of Technology, HCM, Viet Nam
+Ho Chi Minh City University of Technology, HCM National University, Department of Biotechnology, Faculty of Chemical Engineering, Ho Chi Minh City, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology, VNU-HCM, District 10, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam, Viet Nam
+International University Vietnam National University - HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Computational Physics Laboratory, Institute of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Silicate Materials, Faculty of Materials Technology, Ho Chi Minh City University of Technology, Viet Nam
+Ho Chi Minh City University of Technology, VNU HCM, 268 Ly Thuong Kiet, HCM City, Viet Nam
+Faculty of Computer Science, University of Information Technology, VNU-HCM, HCM City, Viet Nam
+Vietnam National University, Center of Water Management and Climate Change, Ho Chi Minh City, Viet Nam
+Department of Biotechnology, Ho Chi Minh City International University, Ho Chi Minh, Viet Nam
+Department of Applied Physics, University of Technology-VNUHCM, Viet Nam
+National Key Lab of Polymer and Composite Materials, Viet Nam National University, Ho Chi Minh, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University of HCMC, HCMC, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, VNUHCM, 268 Ly Thuong Kiet Street, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University, HCMC, Viet Nam
+., Faculty of Information Technology, VNUHCM - University of Science, Viet Nam
+University of Science - Vietnam National University HoChiMinh City, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+University of Economics and Law, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Biomedical Engineering, International University, Vietnam National University-Ho Chi Minh City (VNU-HCM), Quarter 6, Thu Duc District, Ho Chi Minh City, 70000, Viet Nam
+University of Science VNU-HCM, Ho Chi Minh, Viet Nam
+Department of Civil Engineering, International University, VNU-HCM, Viet Nam
+Plant Physiology Department, Biology and Biotechnology Faculty, University of Science, Vietnam National University Hochiminh City, Viet Nam
+Department of Automotive Engineering, Faculty of Transportation Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, 70350, Viet Nam
+Department of Physics and Electronics, University of Sciences, Vietnam National University HCMC, 227 Nguyen Van Cu, District 5, HoChiMinh City, Viet Nam
+School of Electrical Engineering, International University, Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, Ho Chi Minh City University of Science, Vietnam National University, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Computer Engineering, University of Information Technology - VNU-HCM, Viet Nam
+Faculty of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources/Vietnam National University, Ho Chi Minh City, Viet Nam
+Center of Water Management and Climate Change (WACC), Vietnam National University - Ho Chi Minh City (VNU-HCM), Quarter 6, LinhTrung Ward, Thu Duc District, HoChiMinh City, Viet Nam
+Faculty of Environment & Natural Resources, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Center for Molecular and NanoArchitecture (MANAR), Vietnam National University-Ho Chi Minh (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Faculty of Chemistry, VNUHCM–University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University HCMC, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University HoChiMinh City (VNU-HCM), 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Social Work, University of Social Sciences and Humanities, Vietnam National University, 10-12 Dinh Tien Hoang street, Ben Nghe ward, District. 1, Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Laboratory of Advanced Materials, University of Science, VNU-HCM, 227 Nguyen Van Cu Street, Award 4, District 5, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, HCMIU Quarter 6, Linh Trung, Thu Duc, HCM, Viet Nam
+Faculty of Civil Engineering, University of Technology, National University of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu St., Dist. 5, Ho Chi Minh City, 700000, Viet Nam
+School of Biotechnology, International University, Viet Nam National University in HCMC700000, Viet Nam
+Department of Information System, UIT – VNU HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, VNUHCM, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University -Ho Chi Minh City, Viet Nam
+University of Technology, Vietnam National University–Ho Chi Minh City, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University Ho Chi Minh City, Viet Nam
+Department of Manufacturing Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Electronics and Telecommunications, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Information and Technology, National University Ho Chi Minh City, Ho Chi Minh City, 700000, Viet Nam
+Ho Chi Minh City University of Technology, Faculty of Electrical-Electronics Engineering, Power Delivery Department, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University in Ho Chi Minh, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Mechanics, Faculty of Mathematics and Computer Science, University of Science – VNUHCM, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, VNUHCM, Ho Chi Minh, Viet Nam
+Vietnam National University Ho Chi Minh City, Linh Trung, Thu Duc, Ho Chi Minh city, Viet Nam
+Faculty of Computer Science & Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Computer Science, VNU HCMC, University of Science, Ho Chi Minh City, Viet Nam
+Center for Innovative Materials and Architectures, University of Science, Vietnam National University, HoChiMinh, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+Institute for Environment and Resources, Vietnam National University of HoChiMinh City, Viet Nam
+Faculty of Information Technology, University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, 700000, Viet Nam
+Pharmaceutical Engineering Laboratory, Biomedical Engineering Department, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNU-HCM University of Science, 227 Nguyen Van Cu St., Ward 4, District 5, Ho Chi Minh City, 700000, Viet Nam
+VNUHCM - The University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Environment, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+John von Neumann (JVN) Institute, Vietnam National University, Ho-Chi-Minh City, Viet Nam
+School of Electrical Engineering, International University, KP6, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Faculty of Physics & Engineering Physics, HCMC University of Science – VNU, 227 Nguyen Van Cu St., Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Electrical Electronics Engineering, Ho Chi Minh University of Technology, Viet Nam
+Inorganic Chemical Engineering Department, Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+University of Science, Vietnam National University – Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, University of Technology-VNU HCM, Ho Chi Minh City, Viet Nam
+University of Technology, Vietnam National University, 268 Ly ThuongKiet, Dist. 10, Viet Nam
+Cancer Research Laboratory, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+The Faculty of Applied Science, The Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Mathematics, University of Science, Vietnam National University-HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology VNUHCM, Viet Nam
+Department of Industrial System Engineering, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Department of Mechanical Engineering, Hochiminh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNUHCM-University of Science, Ho Chi Minh, Viet Nam
+Department of Software Engineering, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engieering, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Chemical Engineering, Bach Khoa University, VNU-HCM, 268 Ly Thuong Kiet, District Ho Chi Minh City 10, Viet Nam
+Department of Mathematics, Vietnam National University-HCMC, Saigon, Viet Nam
+Mechatronics Engineering Department, Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Computer Science & Engineering (CSE), Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of New Brunswick, University of Technology-VNU HCM, Ho Chi Minh City, Viet Nam
+Department of Production and Operations Management, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Research Center Scientific for Conservation of Natural Resources, University of Sciences, Vietnam National University Ho Chi Minh City (VNU), Viet Nam
+Department of Nuclear Physics, Faculty of Physics and Engineering Physics, VNUHCM-University of Science, Viet Nam
+Institute of Environment and Resources, Vietnam National University Ho Chi Minh City, Viet Nam
+School of Business, International University – Vietnam National University of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Division of Biochemistry and Molecular Biology, School of Medicine, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Biology, Department of Ecology and Evolutionary Biology, University of Sciences, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University – HCMC, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University Hochiminh City, Linh Trung, Thu Duc, Hochiminh City, Viet Nam
+PFIEV Program, Electrical Engineering Department, Ho Chi Minh City University of Technology, Viet Nam
+University of Science, University of Information Technology, VNU-HCM, Viet Nam
+The Centre for Environmental Science and Ecology, Institute for Environment and Natural Resources, Vietnam National University of Ho Chi Minh City, Viet Nam
+FIT, Ho Chi Minh University Of Science, Ho Chi Minh, Viet Nam
+University of Science, 227 Nguyen Van Cu St., Ho Chi Minh City, Viet Nam
+Center for Educational Accreditation (CEA), Vietnam National University, Ho Chi Minh City, Viet Nam
+Computer Science Department, VNUHCM-University of Science, Ho Chi Minh City, 700000, Viet Nam
+University of Science, Vietnam National University, 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Department of Telecommunication Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Vietnam National University, Ho Chi Minh City, 748355, Viet Nam
+Research Center for Genetics and Reproductive Health (CGRH), School of MedicineVietnam National University HCMC, Linh Trung, Thu Dú'c, Ho Chi Minh, Viet Nam
+School of Industrial Management, Ho Chi Minh City University of Technology - VNU-HCM, Bldg. B10 – 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City, Viet Nam
+Department of Mechanics, Faculty of Mathematics and Computer Science, VNUHCM – University of Science, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, HCMC, Viet Nam
+University of Technology, VNU-HCM, 268 Ly Thuong Kiet Str., Dist. 10, HCM City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Ho Chi Minh City, 748355, Viet Nam
+Faculty of Biology—Biotechnology, Vietnam National University, Ho Chi Minh University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, DCSELAB, HCM City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+University of Science, HCM-VNU, Hochiminh city, Viet Nam
+University of Science, VNU-HCMC, Ho Chi Minh, Viet Nam
+Ho Chi Minh City University of Technology, VNU–HCM, Ho Chi Minh City, Viet Nam
+Insitute for Environment and Resources, Vietnam National University-Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM–University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Biotechnology, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University in Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Environment, Hochiminh City University of Technology, 268 Ly Thuong Kiet street, District 10, Hochiminh city, Viet Nam
+School of Electrical Engineering, International University, Vietnam National University, Hochiminh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Biology-Biotechnology, Vietnam National University Ho Chi Minh City, University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Automatic Control, Ho Chi Minh City University of Technology, Ho Chi Minh, 70000, Viet Nam
+University of Science - Ho Chi Minh City, 227 Nguyen Van Cu, Dist. 5, Viet Nam
+University of Technology, HCMC National University, Viet Nam
+Materials Technology Key Laboratory (Mtlab), Ho Chi Minh City University of Technology, Vietnam National University (VNU-HCM), 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Tissue Engineering and Regenerative Medicine Laboratory, Department of Biomedical Engineering, International University, Vietnam National University, Ho Chi Minh City, 700000, Viet Nam
+Department of Mathematics, Vietnam National University-HCMC, International University, Sai Gon, Viet Nam
+Bach Khoa University (BKU), Ho Chi Minh city, Viet Nam
+School of Electrical Eng., International University-VNUHCM, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Bach Khoa University, Vietnam National University in Ho Chi Minh City, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet Street, Ho Chi Minh City, 740500, Viet Nam
+Department of Organic Chemistry, University of Science, National University - Ho Chi Minh City, Dist. 5, Ho Chi Minh City, Viet Nam
+Department of Aerospace Engineering, Ho Chi Minh City University of Technology, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, 740015, Viet Nam
+Institute for Nanotechnology, Vietnam National University - Ho Chi Minh City Community, 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Genetics, University of Science, Vietnam National University−Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 748355, Viet Nam
+Faculty of Chemical Engineering, HCMC University of Technology, Ho Chi Minh, Viet Nam
+Comp. Physics Lab, Ho Chi Minh City Univ. of Technology, Vietnam Natl. University– HochiMinh City, Viet Nam
+University of Information Technology (UIT), Hochiminh City, Viet Nam
+University of Science, 227 Nguyen Van Cu, Dist. 5, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University, HCMC, Viet Nam
+University of Science, Molecular Genetics and Genomics Research Group, Cancer Research Laboratory, VNU-HCM, Building B6.1, Dong Hoa Village, Binh Duong Province, Di An District, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, HoChiMinh City, Viet Nam
+Pharmaceutical Engineering Laboratory, Biomedical Engineering Department International University, Vietnam National University, Ho Chi Minh, 70000, Viet Nam
+HCM University of Science, Ho Chí Minh, 748500, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University, HoChiMinh, Viet Nam
+Department of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Industrial Management, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+University of Natural Sciences, Vietnam National University, Ho Chi Minh City, 700000, Viet Nam
+School of Computer Science and Engineering, International University – Vietnam National University, Hochiminh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Sciences, Ho Chi Minh, Viet Nam
+John von Neumann Institute, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University, Ho Chi Minh, Viet Nam
+Advanced Program in Computer Science, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Computational Physics Lab, HochiMinh City University of Technology, Vietnam National University - HochiMinh City, 268 Ly Thuong Kiet Street, District 10, HochiMinh City, Viet Nam
+Faculty of Biology and Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Nuclear Technique Laboratory, VNUHCM-University of Science, 227, Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Department of Gas & Petroleum Processing Technology, Faculty of Chemical Engineering, Hochiminh City University of Technology, Ho Chi Minh City, 8408, Viet Nam
+School of Computer Science and Engineering, International University – Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Computer Networks and Communications, University of Information Technology, Vietnam National University, Viet Nam
+Department of Organic Chemistry, National University of Science of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Biology Biotechnology, Vietnam National University, Ho Chi Minh University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Viet Nam
+Telecommunications Engineering Department, HoChiMinh City University of Technology, 268 Ly Thuong Kiet Str., District 10, HoChiMinh City, Viet Nam
+School of Biotechnology, Ho Chi Minh International University, Thu Duc, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Technology, Ho Chi Minh, Viet Nam
+Department of Computer Sciences, VNUHCM-University of Sciences, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, University of Science, VNU-HCMs, Ho Chi Minh City, 700000, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Electrical - Electronic Faculty, HCMC University of Technology, 268 Ly Thuong Kiet st, district 10, HCMC, Viet Nam
+Ho Chi Minh City University of Techology700000, Viet Nam
+Ho chi minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNUHCM, University of Science, Viet Nam
+International University, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Faculty of Environment & Natural Resources, University of Technology, Vietnam National University, 268 Ly Thuong Kiet Str., District 10, Ho Chi Minh City, Viet Nam
+Department of Physics-Mathematics, University of Information Technology, Vietnam National University-Hochiminh City, Linh Trung Ward Thu Duc District, Hochiminh City, Viet Nam
+Institute for Nanotechnology, Vietnam National University, Ho Chi Minh City (VNU-HCM), Ho Chi Minh, Viet Nam
+Information Security Lab, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, Ho Chi Minh City, 227 Nguyen Van Cu St., Ho Chi Minh City, Viet Nam
+Natural Product and Medicinal Chemistry Lab, Faculty of Chemistry, VNUHCM–University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Chemistry, University of Science, Vietnam National University - Ho Chi Minh City, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+School of Biotechnology, HCM International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+International University-VNUHCM, Viet Nam
+Faculty of Mathematics, University of Science, Vietnam National University, Ho chi Minh city, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology-VNU HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, Hochiminh city, 70000, Viet Nam
+Ho Chi Minh City University of Technology, VNU, HCM, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Viet Nam National University, 142 To Hien Thanh Street, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Department of Applied Physics, University of Science, VNU-HCM, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Vietnam National University - Ho Chi Minh, No. 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+School of Business, International University, Vietnam National University, Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology (HCMCUT), Ho Chi Minh City, Viet Nam
+University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Bach Khoa University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Ecology and Evolutionary Biology, University of Science-Vietnam National University HCMC, 227 Nguyen Van Cu Street, District 5, Ho ChiMinh City, Viet Nam
+International University, Vietnam National University HCMC, Quarter 6, LinhTrung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+VNUHCM, University of Science, Vietnam, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Science, Vietnam National University-HCM, Ho Chi Minh City, Viet Nam
+Department of Theoretical Physics, University of Natural Sciences, VNU, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Automatic Control, Ho Chi Minh City University of Technology, Ho Chi Minh city, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University Vietnam National University, HCM City, Viet Nam
+Department of Physical Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Information Technology, National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+School of Medicine, Vietnam National University, HCMC, Ho Chi Minh City, Viet Nam
+Department of Computer Science, Faculty of Mathematics & Computer Science, University of Science, VNU-HCMC, Nguyen Van Cu Street, District 5, Ho Chi Minh City, 700000, Viet Nam
+International University, Vietnam National University, Quarter 6, Linh Trung Ward, Ho Chi Minh, Viet Nam
+Faculty of Computer Science, Ho Chi Minh City University of Information Technology, Ho Chi Minh City, Viet Nam
+University of Science - VNUHCM, 227-Nguyen Van Cu Street, 5th District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, Faculty of Materials Technology, 268 Ly Thuong Kiet, Ho Chi Minh City, District 10, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu St., Dist. 5, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Ho Chi Minh, 700000, Viet Nam
+John von Neumann Institute, Vietnam National University, HCMC, Viet Nam
+School of Computer Science and Engineering, International University, VNUHCM, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology - VNUHCM, Viet Nam
+Pharmaceutical Engineering Laboratory, Biomedical Engineering Department, International University, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+Chi Minh City University of Technology, Ho Chi Minh City, 700000, Viet Nam
+Vietnam National University of Ho Chi Minh City, Faculty of Civil Engineering, Viet Nam
+Faculty of Material Science, HCMC University of Science – VNU, 227 Nguyen Van Cu St., Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Bach Khoa University (VNU-HCM), 268 Ly Thuong Kiet Str., Ho Chi Minh City, Viet Nam
+Faculty of Computer Engineering, University of Information Technology, Ho Chi Minh, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU-HCM, 227 Nguyen Van Cu Str., Dist. 5, HCM-City, Viet Nam
+University of Science, VietNam National University of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University-Ho Chi Minh City, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Vietnam National University, Ho Chi Minh City, University of Science, 227 Nguyen Van Cu str., Dist. 5, Ho Chi Minh City, Viet Nam
+School of Industrial Management (SIM), Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Vietnam National University-Ho Chi Minh (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+HCMC University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Viet Nam National University Ho Chi Minh, Viet Nam
+International University, Vietnam National University of Hochiminh-city, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Power Electronic Research Laboratory, Ho Chi Minh City University of Technology, VNU, Viet Nam
+Research Center for Genetics and Reproductive Health (CGRH), School of Medicine, Vietnam National University HCMC, Room 608, VNU-HCM Administrative Building, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+University of Science, Ho Chi Minh City, 227 Nguyen Van Cu St., Dist. 5, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Sciences, University of Science, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Ho Chi Minh city, Viet Nam
+Computer Science Department, University of Science, HCMC, Viet Nam
+Department of Organic Chemistry, University of Science, National University Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, 748355, Viet Nam
+Department of Electric and Electronics Engineering, Hochiminh University of Technology, Hochiminh City, Viet Nam
+Department of Mathematics, Vietnam National University-HCMC, University of Information Technology, Thu Duc District, Saigon, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh, Viet Nam
+Faculty of Applied Science, Ho Chi Minh City University of Technology, Viet Nam
+International University, VNU-HCMC, Viet Nam
+John Von Neumann Institute, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chia Minh City University of Technology, Ho Chia Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University-Ho Chi Minh City (VNU-HCM), HCMC, 700000, Viet Nam
+Institute for Environment and Resources, Vietnam National University – Hochiminh City, 142 To Hien Thanh Street, District 10, Hochiminh City, Viet Nam
+Mathematics and Computer Science Faculty, University of Science, HoChiMinh, Viet Nam
+Department of Mathematics, University of Science, Vietnam National University, Hochiminh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+Ho Chi Minh University of Technology, Ho Chi Minh, Viet Nam
+Faculty of Mechanical Engineering, University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, Ho Chi Minh University of Science, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University (VNU-HCM), Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University Ho Chi Minh City, Faculty of Computer Networks and Communications, Dept. of Computer Networks, 6 Quarter, Linh Trung ward, Thu Duc district, Ho Chi Minh city, Viet Nam
+University of Science, Faculty of Chemistry, 227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam
+University of Science, VNU-HCM, Viet Nam
+Department of Mechatronics Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Viet Nam
+University of Science, Vietnam National University, Hochiminh City, 700000, Viet Nam
+Department of Sociology, Vietnam National University in HCMC, Viet Nam
+University of Science-Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, HCM City, Viet Nam
+Department of Civil Engineering, International University - VNU HCM, Viet Nam
+Department of Mathematics and Computer Science, VNUHCM - University of Science, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Vietnam National University Ho Chi Minh City, University of Information Technology, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University-HCMC, Ho Chi Minh City, Viet Nam
+Department of Physical and Analytical Chemistry, Faculty of Chemical Engineering, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+CARE, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, Viet Nam
+CARE, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City (VNU-HCM), 268 Ly ThuongKiet St, Dist. 10, Ho Chi Minh City, Viet Nam
+Center for Molecular and NanoArchitecture (MANAR), VNU-HCM, Ho Chi Minh City, 721337, Viet Nam
+Biomedical Engineering Department, University of Technology -VNU HCM, 268 Ly Thuong Kiet Str., Distr. 10, Ho Chi Minh City, Viet Nam
+Faculty of Math and Computer Science, University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Van Hanh General Hospital, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University in VNUHCM, Viet Nam
+Faculty of Computer Science and Engineering, University of Technology, VNUHCM, No 268, Ly Thuong Kiet Street District 10, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCMC, Viet Nam
+University of Information Technology - Vietnam, Km 20, Hanoi Highway, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Biotechnology of Ho Chi Minh International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology- VNUHCM, Viet Nam
+Department of Mechatronics, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Center of Water Management and Climate Change (WACC), Vietnam National University - Ho Chi Minh City (VNU-HCM), Quarter 6, LinhTrung Ward, Thu Duc District HoChiMinh City, Viet Nam
+University of Technology, Vietnam National University, Ho Chi Minh city, Viet Nam
+Department of Pharmacy, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Central Library, HCMC, Vietnam National University, Quarter 6 Linh Trung Ward Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Engineering Geology, Ho Chi Minh University of Science, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+Department of Manufacturing Engineering, Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+University of Science, VNU-HCMC, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University - HCMC, Ho Chi Minh City, Viet Nam
+Bach Khoa University, Vietnam National University HCM, Viet Nam
+Department of Finance and Banking, School of Business, International University-Vietnam, National University of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Ho Chi Minh City, 700000, Viet Nam
+Ho Chi Minh City University of Technology, VNU Power Electronics Research Lab, Hochiminh City, Viet Nam
+Ho Chi Minh City University of Technology, 268 – Ly Thuong Kiet St., Dist. 10, Ho Chi Minh City, Viet Nam
+Faculty of Applied Science, University of Technology, Ho Chi Minh City, Viet Nam
+Power Electronics Research Lab, HCM City University of Technology, HCMUT-VNU, HCM City, Viet Nam
+Dept. of Electrical and Electronics Engineering, University of Technology, Hochiminh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University, Ho Chi Minh, Viet Nam
+Care, IRD, Block B7, 268 Ly Thuong Kiet St, Ho-Chi-Minh-Ville, Viet Nam
+University of Information Technology, VNU HCMC, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam University in Ho Chi Minh, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+HoChiMinh City University of Technology, Vietnam National University HoChiMinh City, 268 Ly Thuong Kiet St., HoChiMinh City, 700000, Viet Nam
+Department of Biotechnology, Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet street, District 10, Ho Chi Minh City, Viet Nam
+Hitech Mechatronics Lab, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Viet Nam
+Fac. of Mathematics and Computer Sciences, University of Science, Ho Chi Minh City, Viet Nam
+Laboratory for Nanotechnology, Vietnam National University, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, VNUHCM - University of Science, 227 Nguyen Van Cu Str., Dist. 5, HoChiMinh City, Viet Nam
+Current address: School of Biotechnology, International University, Vietnam National University of HCMC, HCMC, Viet Nam
+University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, National University, 142 To Hien Thanh Street, District 10, Ho Chi Minh City, Viet Nam
+Laboratory for Nanotechnology (LNT), Vietnam National University - Ho Chi Minh City Vietnam (VNUHCM), Viet Nam
+ICALab, University of Technology, VietNam National University in Hochiminh City, Viet Nam
+Comp. Physics Lab, Ho Chi Minh City Univ. of Technology, Vietnam Natl. University HochiMinh City, Viet Nam
+Faculty of Computer Science and Engineering, Hochiminh City University of Technology, Viet Nam
+HCMC University of Technology, VNU HCMC, 268, LyThuongKiet, HCMC, Viet Nam
+Department of Telecommunications Engineering, HoChiMinh City University of Technology, Viet Nam
+University of Science, VNU-HCMC, 227 Nguyen Van Cu, Dist. 5, Ho Chi Minh, Viet Nam
+Faculty of Electronics and Telecommunications, University of Science-VNUHCM, Ho Chi Minh City, Viet Nam
+Department of Physical Chemistry, University of Science, Vietnam National University in Ho Chi Minh, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, 721337, Viet Nam
+Department of Chemical process and Equipment, Faculty of Chemical Engineering, University of Technology, Ho Chi Minh City, Viet Nam
+Department of Biochemistry, Faculty of Biology and Biotechnology, University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 702500, Viet Nam
+Department of Telecommunications Engineering, Ho ChiMinh City University of Technology, Viet Nam
+Faculty of Physics and Engineering Physics, HCMC University of Science - VNU, 227 Nguyen Van Cu St.,District 5, Ho Chi Minh City, Viet Nam
+Department of Chemical process and Equipment, Faculty of Chemical Engineering, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Faculty of Computer Science, Ho Chi Minh City, University of Information Technology, Viet Nam
+Ho Chi Minh City University Of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+DCSELAB, Ho Chi Minh City University of Technology, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Pharmaceutical Engineering Laboratory, Biomedical Engineering Department, International University, Vietnam National University Ho Chi Minh City700000, Viet Nam
+University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Computer Sicence and Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, Distr. 10, Ho Chi Minh City, Viet Nam
+Department of Biomedical Engineering, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Material Science, HCMC University of Science - VNU, 227 Nguyen Van Cu St. District 5, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology (VNU-HCM), 268 Ly Thuong Kiet Str., Ho Chi Minh City, Viet Nam
+University of Sciences, Vietnam National University HCMC, Ho Chi Minh, Viet Nam
+Department of Automatic Control, Ho Chi Minh University of Technology, Ho Chi Minh city, Viet Nam
+Faculty of Electrical and Electronics Engineering, Bach Khoa University, BKU-VNU, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Materials Technology Key Laboratory (Mtlab), Ho Chi Minh City University of Technology, Vietnam National University (VNU–HCM), 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology - Vietnam (HCMUT), Viet Nam
+University of Information Technology, VNU-HCM, Ho Chi Minh, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology, VNU-HCM 268 Ly Thuong Kiet, District 10, Ho Chi Minh City 84, Viet Nam
+Department of Probability and Statistics, University of Sciences (HCM VNU), Viet Nam
+Biotechnology Department, International University, Viet Nam
+Electrical and Electronics Engineering School, Ho Chi Minh City University of Technology, Ho Chi Minh City, 70000, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University, 227 Nguyen Van Cu, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+University of Information Technology, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, VNU-HCMUS, HCM, Viet Nam
+Faculty of Electrical and Electronics Engineering, University of Technology, Ho Chi Minh City, Viet Nam
+Department of Physics and Electronics, University of Sciences, Vietnam National University HCMC, Ho Chi Minh, Viet Nam
+Faculty of Computer Engineering, University of Information Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+Department of Genetics, Faculty of Biology, University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 703000, Viet Nam
+Deputy Dean Room, Falculty of Electric and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Computer Sciences, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Bach Khoa University, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, University of Technology, Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, Viet Nam
+Department of Mathematics, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University, VNU-HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, University of Science, Vietnam National University, HoChiMinh, Viet Nam
+Center of Water Management and Climate Change (WACC, Vietnam National University Ho Chi Minh City (VNUHCM), Ho Chi Minh City, 12345, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+HCM City University of Science, HCM City, Viet Nam
+School of Biotechnology, International University – Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Multimedia Communications Laboratory, University of Information Technology, VNU-HCM, Ho Chi Minh, Viet Nam
+Vietnam National University—Ho Chi Minh City, University of Science, Faculty of Environmental Science, 227 Nguyen Van Cu Str., Dist. 5, HCMC, Viet Nam
+HiTech Mechatronics Lab, Hochiminh City Univ. of Technology, Viet Nam
+Center for Innovative Materials and Architectures, Vietnam National University, Ho Chi Minh City, 721337, Viet Nam
+Department of Bridge and Highway Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+University of Social Sciences and Humanities, Vietnam National University, 10-12 Dinh Tien Hoang street, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam
+Department of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, Ho Chi Minh City, 748000, Viet Nam
+Faculty of Physics & Engineering Physics, University of Science, Ho Chi Minh, Viet Nam
+HCMUT, Viet Nam
+University of Social Sciences and Humanities of Ho Chi Mnh City, 10-12 Dinh Tien Hoang Str., Dis. 1, Hochiminh City, Viet Nam
+Faculty of Information Technology, University of Science, Ho Chi Minh City, Viet Nam
+Department of Probability and Statistics, University of Sciences (HCM VNU), Ho Chi Minh City, Viet Nam
+Department of Electrical and Electronics Eng., University of Technology-VNUHCM, Viet Nam
+HCMC University of Technology, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, Ho Chi Minh City, Viet Nam
+Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Biomedical Engineering Department, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Construction Engineering and Management, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Physics, International University - Vietnam National University HCM, Block 6, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Department of Physics, University of Science, Vietnam National University, Ho Chi Minh City, 749000, Viet Nam
+University of Lnformation Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Biology and Biotechnology, University of Science, VNU-HCM, Ho Chi Minh, Viet Nam
+Faculty of Applied Science, University of Technology VNU HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+School of Engineering, International University, Vietnam National University-HCMC, Block 6, Linh Trung ward, Thu Duc district, Ho Chi Minh city, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University, Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of International Relations, Vietnam National University, Ho Chi Minh City, Viet Nam
+Tissue Engineering and Regenerative Medicine Laboratory, Department of Biomedical Engineering, International University of Vietnam National Universities, Ho Chi Minh City, 700000, Viet Nam
+VNUHCM-University of Science, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Department of Electrical Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, 700000, Viet Nam
+Department of Mathematics and Computer Science, University of Science, Vietnam National University-Ho Chi Minh City, 227 Nguyen Van Cu str., District 5, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Vietnam National University, Ho Chi Minh City, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, Viet Nam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+Faculty of Geology and Petroleum Engineering, Ho Chi Minh City University of Technology, Vietnam National University - Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+International University, VNU-HCM, Linh Trung, Thu Duc, HCM city, Viet Nam
+Ho Chi Minh City University of Technology, Viet Nam
+Ho Chi Minh City University of Technology, Department of Electrical Engineering, Faculty of Electrical and Electronic Engineering, District 10, Ho Chi Minh City, Viet Nam
+Department of Aerospace Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Department of Electrical and Electronics Engineering, University of Technology, VNUHCM, Viet Nam
+Institut de Recherche pour le Développement (IRD), UMR MARBEC, Laboratory of Zoology, Department of Ecology and Evolutionary Biology, University of Science, VNUHCM, Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University of Hochiminh City, Thu Duc District, Linh Trung Ward, HCMC, Viet Nam
+School of Computer Science and Engineering, International University-Vietnam National University, HCMC, Quarter 6, Linh Trung Ward, Ho Chi Minh City, Thu Duc District, Viet Nam
+Department of Industrial and Systems Engineering, HoChiMinh City International University, Quarter 6, Linh Trung Ward, Thu Duc District, HoChiMinh City, Viet Nam
+Department of Heat and Refrigeration Engineering, Ho Chi Minh city, Viet Nam
+Department of Molecular and Environmental Biotechnology, Faculty of Biology and Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University-VNUHCM, Viet Nam
+Laboratory of Zoology, Department of Ecology and Evolutionary Biology, Institut de recherche pour le développement (IRD), MARBEC, University of Science, VNUHCM, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+Department of Ecology and Evolutionary Biology, University of Science, Vietnam National University HCMC, 227 Nguyen Van Cu District, Ho Chi Minh City, Viet Nam
+Laboratory for Nanotechnology (LNT), Vietnam National University - Ho Chi Minh City (VNU-HCM), Viet Nam
+International University-Vietnam National University, Viet Nam
+University of Science, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Vietnam National University - HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet, District 10 Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet, Ho Chi Minh City, District, 10, Viet Nam
+Department of Mechatronics, Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, VNU HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM 268 Ly Thuong Kiet Street, Ho Chi Minh City, Viet Nam
+Institute for Environment and Natural Resources, National University at HCM City, 6 Quarter, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+CARE-HCMUT, Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resource, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Environment and Natural Resources-HCMUT, Vietnam National University-Ho Chi Minh City70000, Viet Nam
+Faculty of Information Technology, University of Science, Viet Nam
+Department of Industrial and Systems Engineering, International University, VNU-HCMC, Ho Chi Minh City, Viet Nam
+Dept. of Computer Engineering, UIT, VNU, Ho Chi Minh City, Viet Nam
+Quantitative and Computational Finance Lab, John von Neumann, Ho Chi Minh, Viet Nam
+School of Computer Science and Engineering, International University-Vietnam National University, Hochiminh City, Viet Nam
+IC Design Research and Education Center, Linh Trung ward., Thu Duc district, HCM city, Viet Nam
+School of Industrial Management, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+School of Electrical Engineering International University, Vietnam National University - HCMC, Viet Nam
+Department of Polymer Chemistry, Faculty of Chemistry, University of Science, National University of HCM City (VNU-HCM), 227 Nguyen Van Cu, Viet Nam
+Ho Chi Minh City University of Technology, HCM National University, Viet Nam
+Department of Chemical Engineering, Bach Khoa University, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Science, Ho Chi Minh City, Viet Nam
+Computer Science and Engineering, International University - Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Heat and Refrigeration, Ho Chi Minh City University of Technology, Address: 268 Ly ThuongKietstreet, district 10, Ho Chi Minh, Viet Nam
+Faculty of Information Technology, VNU University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Environment, University of Science, Vietnam National University - Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+School of Electrical Engineering International University, Vietnam National University, Viet Nam
+School of Biotechnology, Ho Chi Minh International University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+University of IT, VNU HCMC, Ho Chi Minh, Viet Nam
+Faculty of Materials Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Str, Ho Chi Minh City, Viet Nam
+School of Biotechnology of International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, 227 Nguyen Van Cu, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Q 5, Ho Chi Minh City, 750000, Viet Nam
+School of Industrial Management (SIM), Ho Chi Minh City University of Technology - HCMUT, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh, Viet Nam
+University of Technology—Vietnam National University, Ho Chi Minh City, Viet Nam
+Computer Science and Engineering (CSE), Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+National University Ho Chi Minh City, Institute for Environment and Resources, Viet Nam
+Department of Organic Chemistry, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 748355, Viet Nam
+Department Computer Science and Technology, Ho Chi Minh City University of Technology, Viet Nam
+Dept. of Civil Engineering, International Univ of VNU HCM, Ho Chi Minh, 0084, Viet Nam
+University of Information Technology, VNU-HCM, KP6, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Faculty of Electrical & Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, VNU, 268 Ly Thuong Kiet Street, Distric 10, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University HCMC, Block 6 Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Natural Science, Ho Chi Minh City, Viet Nam
+Computer Engineer Faculty, University of Information Technology, Ho Chi Minh, Viet Nam
+University of Science (VNU-HCM), 227 Nguyen Van Cu Str., Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University Ho Chi Minh City, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Department of Mathematics, Vietnam National University-HCMC, International University, Thu Duc District, Saigon, Viet Nam
+Department of Production and Operation Management, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Computer Science and Engineering (CSE), Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh University of Technology, Ho Chi Minh, Viet Nam
+Institute for Environment and Resources, Vietnam National University Hochiminh City, 142 To Hien Thanh Street, District 10, Hochiminh City, Viet Nam
+Japan John von Neumann Institute, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Information System, School of Information Technology, VNUHCM, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNUHCM-University of Science, Hochiminh City, Viet Nam
+University of Technology, Vietnam National University Hochiminh City, 268 Ly ThuongKiet, Dist. 10, Ho Chi Minh, Viet Nam
+Center of Water Management and Climate Change (WACC, Vietnam National University—Ho Chi Minh City (VNU—HCM), Ho Chi Minh City, 12345, Viet Nam
+Faculty of Computer Networks and Communications, University of Information Technology, Vietnam National University of Hochiminh City, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University - Vietnam National University, Hochiminh City, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+Department of Ecology and Evolutionary Biology, Faculty of Biology-Biotechnology, University of Science Ho Chi Minh City, 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Ho Chi Minh, 70000, Viet Nam
+Department of Physics and Engineering Physics, University of Science, VNU-HCM, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 700000, Viet Nam
+VNUHCM School of Medicine and Pharmacy, Quarter 6, Linh Trung WardLinh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Sciences Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+International University, VNU-HCMC, Thu Duc District, Ho Chi Minh City, Viet Nam
+HCM University of Science, Ho Chi Minh, 748500, Viet Nam
+School of Biotechnology, International University, Vietnam National University in HoChiMinh City, Quarter 6, Linh Trung Ward, Thu Duc District, HoChiMinh City, Viet Nam
+Cancer Research Laboratory, VNUHCM-University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam
+VNU International University, School of Electrical Engineering, HoChiMinh, Viet Nam
+Tissue Engineering and Regenerative Medicine Laboratory, Department of Biomedical Engineering, International University, Vietnam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 700000, Viet Nam
+Faculty of Chemistry, VNUHCMa University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+HCMC, University of Science, Viet Nam
+University of Science, Ho Chi Minh City National University, No. 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Environmental Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, District. 10, Ho Chi Minh City, Viet Nam
+Dept. of Electrical and Electronics Engineering, HCMC Uni. of Tech., National Uni., Viet Nam
+School of Biotechnology, Ho Chi Minh City International University, Vietnam National University HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Viet Nam National University, Ho Chi Minh, Viet Nam
+International University, Vietnam National University, Viet Nam
+University of Information Technology, Vietnam National University, Km 20, Hanoi Highway, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCMC, Viet Nam
+Department of Biotechnology, International University, HCMC, Viet Nam
+Vietnam National University-Hochiminh City, Faculty of Chemistry, University of Science, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+Ho Chi Minh University of Science, Ho Chi Minh City, Viet Nam
+Dept. of Computer Eng., International University, National University, Viet Nam
+Department of Organic Chemistry, University of Science, Vietnam National University−Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 748355, Viet Nam
+University of Science, Viet Nam
+Vietnam National University, Ho Chi Minh City, Viet Nam
+International University – Vietnam National University - HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University-HCMC, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM–University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Ho Chi Minh, 70999, Viet Nam
+Department of Physics, HCMC University of Science, 227 Nguyen Van Cu, Ho Chi Minh city, Viet Nam
+University of Technology, Viet Nam National University Ho Chi Minh City (VNUHCM), 268 Ly Thuong Kiet St, 10th Dist., Ho Chi Minh City, 70000, Viet Nam
+Department of Physical and Analytical Chemistry, Faculty of Chemical Engineering, HCMC, University of Technology, Ho Chi Minh City, Viet Nam
+Department of Computer Science and Technology, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City (VNU-HCM), 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+Fac. of Electrical and Electronic Engineering, HCM Univ. of Technology, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University - VNU HCM, Ho Chi Minh, Viet Nam
+Power Electronic Research Laboratory, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Environment, University of Science, Vietnam National University, Ho Chi Minh City, 700000, Viet Nam
+Department of Information Technology, VNUHCM - University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Bach Khoa Research Center for Manufacturing Engineering, HCMUT, Ho Chi Minh City, Viet Nam
+Bridge and Highway Engineering, Dept. of Civil Engineering, Ho Chi Minh City Univ. of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Electrical Electronics Engineering, HCMUT, 268 Ly Thuong Kiet St., Dist. 10, Ho Chi Minh City, Viet Nam
+Food Technology Department, Biotechnology School, International University, Vietnam National University, HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 70000, Viet Nam
+Tissue Engineering and Regenerative Medicine Group, Department of Biomedical Engineering, International University, Vietnam National University-Ho Chi Minh City (VNU-HCM), HCMC, 700000, Viet Nam
+Vietnam National University – Ho Chi Minh City, 227 Nguyen Van Cu Street, Award 4, District 5, Ho Chi Minh City, Viet Nam
+Department of Theoretical Physics, Faculty of Physics and Engineering Physics, Ho Chi Minh University of Science, Viet Nam
+Institute for Environment and Resources, Vietnam National University, Ho Chi Minh City, Hanoi, Viet Nam
+School of Computer Science and Engineering, International University-VNUHCM, Department of Electrical and Electronics Engineering, University of Technology-VNUHCM, Viet Nam
+Faculty of Chemistry, VNUHCM, University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Biochemistry, Faculty of Biology and Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, 702500, Viet Nam
+Multimedia Communications Laboratory, University of Information Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Computer Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Environmental Department, University of Sciences, 227 Nguyen Van Cu Str. District 5, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNUHCM - University of Science, Viet Nam
+Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Department of PhysicsHCM International University-VNU, Block 6, Linh Trung Ward, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University in HoChiMinh City, HoChiMinh City, Viet Nam
+University of Science, VNU-HCM, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Business Administration, University of Economics and Law, Vietnam National University HoChiMinh City, KP 3, Linh Xuan Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Laboratory for Advanced Materials, University of Science, VNU-HCMC, District 5, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Environment & Natural Resources, University of Technology, Vietnam National University – Ho Chi Minh, Viet Nam
+HiTech Mechatronics Lab, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Viet Nam
+Biomedical Engineering Department, International University, Vietnam National University, Ho Chi Minh City, Vietnam, Viet Nam
+Cancer Research Laboratory, VNUHCM, University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Faculty of Civil Engineering, 268 Ly Thuong Kiet St., Ho Chi Minh City, 700000, Viet Nam
+Faculty of Electrical and Electronic Engineering, University of Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist.5, Ho Chi Minh City, Viet Nam
+Department of Polymer Composites, Faculty of Material Science, University of Sciences, Vietnam National University, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+University of Science – VNUHCM, 227-Nguyen Van Cu Street, 5th District, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HoChiMinh City University of Technology, 268 Ly Thuong Kiet Street, District 10, HoChiMinh City, Viet Nam
+Department of Electrical and Electronics Engineering, Ho Chi Minh University of Technology, Ho Chi Minh, Viet Nam
+Shool of Medicine, National University HCMC, Viet Nam
+Faculty of Material Sciences, University of Sciences, VNU-HCMC, Ho Chi Minh City, 700000, Viet Nam
+Department of Power Systems, HCM City University of Technology, VNU-HCM 268 Ly Thuong Kiet str., 10th dist., HCM City, Viet Nam
+VNUHCM-University of Science, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+Center for Molecular and NanoArchitecture (MANAR), Vietnam National University Ho Chi Minh City, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University-Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+International University, VNU HCMC, Quarter 6, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+Applied Physical Chemistry Laboratory, Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City, Viet Nam
+Centre of Water Management and Climate Change, Vietnam National University - Ho Chi Minh City, IT Park, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Quarter 6, Linh Trung ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Applied Science, University of Technology, Vietnam National University, HoChiMinh City, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet St., Dist. 10, Ho Chi Minh City, Viet Nam
+School of Business, International University – Vietnam National University HCMC; Quarter 6, Linh Trung ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Biotechnology, Hochiminh city International University, Vietnam national university, Hochiminh city, Viet Nam
+Vietnam National University, University of Information Technology, Ho Chi Minh City, Viet Nam
+University of Science, Ho Chi Minh City, 227 Nguyen Van Cu St, Viet Nam
+Department of Electrical and Electronics Engineering, University of Technology, Vnuhcm, Viet Nam
+University of Information Technology, KM20 Xa Lo Ha Noi, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Ecology – Evolutionary Biology, Vietnam National University Ho Chi Minh City (VNUHCM) – University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh University of Technology, VNU-HCM, Viet Nam
+Department of Power Systems, Ho Chi Minh City University Of Technology, 268 Ly Thuong Kiet Street, District 10,Ho Chi Minh City, Viet Nam
+Artificial Intelligence Laboratory, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+University of Information Technology, Ho Chi Minh, Viet Nam
+Faculty of Electrical and Electronic Engineering (FEEE), HoChiMinh City University of Technology, VNU-HCM, Viet Nam
+High school for the gifted, VNUHCM, 153 Nguyen Chi Thanh, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu Street227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Physical Chemistry, Faculty of Chemistry, University of Sciences, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+School of Electrical Engineering, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCMC Ho Chi Minh, Viet Nam
+Research Center for Genetics and Reproductive Health, School of Medicine, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Biomedical Engineering, Faculty of Applied Sciences, Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong, Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Materials Technology Key Laboratory (Mtlab), Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Department of Air Pollution and Climate Change, Institute of Environment & Resources, Vietnam National University, Ho Chi Minh City, 0084, Viet Nam
+Faculty of Computer Science and Engineering., Ho Chi Minh University of Technology, VNUHCM, Viet Nam
+Vietnam National University, Ho Chi Minh City, University of Science, Faculty of Environmental Science, 227 Nguyen Van Cu Str., Dist. 5, HCMC, Viet Nam
+Department of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minn City University of Technology, VNU-HCM, Vietnam, 268 Ly Thuong Kiet, Hochiminh City, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Vietnam National University-Ho Chi Minh, District 10, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HCM City University of Technology, Ho Chi Minh City, Viet Nam
+Regional Centre of Expertise on Education for Sustainable Development in Southern Vietnam, International University-Vietnam National University Ho Chi Minh City, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+School of Business, International University, Vietnam National University - HCMC, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Computer Networks and Communications, University of Information Technology (UIT), Vietnam National University of Hochiminh City, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Geomatics Engineering, Hochiminh City University of Technology, VNU-HCM, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, Viet Nam
+HCM City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Telecommunications Department, University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, University of Sciences, VNU-HCMC, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Chemical Engineering Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronic Engineering, HCMC University of Technology, VNU, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University – HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Multimedia Communications Laboratory at University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University-HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Ho Chi Minh City National University, No. 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Department of Ecology and Evolutionary Biology, University of Science-Vietnam National University HCMC, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Cancer Research Laboratory, Vietnam National University, Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Str., District 5, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Environmental Science, University of Science, Vietnam National University–Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science University of Natural Sciences, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+Department of Information Technology, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Technology, Viet Nam
+University of Science, VNU-HCM, Ho Chi Minh city, Viet Nam
+Faculty of Information System, University of Information Technology, VNU-HCM, HCM City, Viet Nam
+Faculty of Physics and Engineering Physics, VNU-HCMUS, Viet Nam
+University of Science, Department of Genetics, Faculty of Biology and Biotechnology, VNU-HCM, 227 Nguyen Van Cu Street, Ward 4, Ho Chi Minh City, District 5, Viet Nam
+Ho Chi Minh City University of Technology VNU-HCM, Viet Nam
+Department of Chemical Process and Equipment, Faculty of Chemical Engineering, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, 268 Ly Thuong Kiet St, Dist. 10, Ho Chi Minh City, 700000, Viet Nam
+University of Science, VNU-HCM, Ho Chi Minh City, 721337, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCM, Viet Nam
+VNUHCMC-University of Science, Department of Microbiology, 227 Nguyen Van Cu, Hochiminh, Dist. 5, Viet Nam
+Department of Biochemistry, Faculty of Biology and Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Department of Mechatronic Engineering, Ho Chi Minh City University of Technology – VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Analysis, Faculty of Mathematics Computer Science, University of Science, VNU-HCMC, Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Dept. of Aeronautical Eng., HCM City Univ. of Technology, Viet Nam
+School of Industrial Management, Bach Khoa University (VNU-HCM), 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, Ho Chi Minh University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Center of Water Management and Climate Change (WACC), Vietnam National University - Ho Chi Minh City (VNU-HCM), Quarter 6, LinhTrung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Faculty of Electrical and Electronics Engineering, Viet Nam
+University of Information Technology, Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Math and Computer Science, University of Science of HCMC, HCMC, Viet Nam
+Department of Mechatronics, HCM University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+University of Information Technology, Department of Knowledge Engineering and Machine Learning, Ho Chi Minh city, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Inorganic Chemical Engineering Department, Ho Chi Minh City University of Technology, Viet Nam
+Vietnam National University-Ho Chi Minh City, Materials Technology Key Laboratory (Mtlab), 268 Ly Thuong Kiet, Ho Chi Minh City, District 10, 70000, Viet Nam
+Department of Computer Sciences, Ho Chi Minh University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, VNUHCM-University of Science, HCM City, Viet Nam
+Vo Anh Kha Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Vietnam National University - Hochiminh City, Linhtrung Ward, Thuduc Dist., Hochiminh City, Viet Nam
+Faculty of Physics and Engineering Physics, VNU-HCM - University of Science, Ho Chi Minh City, 700000, Viet Nam
+Department of Solid State Physics, Vietnam National University Ho Chi Minh City (VNU-HCM), University of Sciences, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu, Dist.5, Ho Chi Minh, Viet Nam
+Department of Biotechnology, Ho Chi Minh City University of Technology, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Electrical - Electronic Faculty, HCMC University of Technology, 268 Ly Thuong Kiet st, District 10, HCMC, Viet Nam
+Hochiminh City University of Technology, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University HCMC, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Computer Science, University of Science, VNU HCM, Ho Chi Minh, Viet Nam
+University of Technology, Vietnam National University–Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University – HCMC, 227 Nguyen Van Cu, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+HoChiMinh City University of Technology, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet street, District 10, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU-HCM, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology - VNU-HCM, 268 Ly Thuong Kiet Street, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University-Ho Chi Minh City, 227 Nguyen Van Cu Str. Dist. 5, Ho Chi Minh City, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, Viet Nam National University, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University-HCMC, Ho Chi Minh City, Viet Nam
+Ho Chi Minh University of Technology, VNU-HCM, Viet Nam
+Ho Chi Minh City University of Technology-VNU HCM, Ho Chi Minh City, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), Vietnam National University, Ho Chi Minh City, Viet Nam
+National Key Lab for Polymer and Composite, Faculty of Materials Technology, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+Tissue Engineering and Regenerative Medicine Group, Department of Biomedical Engineering, Vietnam National University-HCMC (VNU-HCMC)70000, Viet Nam
+RF Department, Integrated Circuit Design Research and Education Center (ICDREC), Vietnam National University, Ho Chi Minh-City, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Biology and Biotechnology, University of Sciences, Vietnam National University, Ho Chi Minh, Viet Nam
+Key Laboratory of Chemical Engineering and Petroleum Processing, HCMUT-VNUHCM, Viet Nam
+International University, Vietnam National University-HCM, Viet Nam
+Applied Physical Chemistry Laboratory, University of Science, Vietnam National University in Ho Chi Minh, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+VNUHCM-University of Science, 227 Nguyen Van Cu, Dist. 5, Ho Chi Minh City, 700-000, Viet Nam
+Faculty of Civil Engineering, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, VNU-HCMC, Ho Chi Minh City, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University Hochiminh City, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+University of Information Technology (UIT), Vietnam National University - HCMC, Hochiminh City, Viet Nam
+Vietnam National University, Cancer Research Laboratory, 227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam
+University of Science, Department of Genetics, Faculty of Biology, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+University of Technology, National University, Ho Chi Minh City, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Computer Engineering, University of Information Technology, Viet Nam
+Center for Interdisciplinary Research in Technology, University of Technology, Ho Chi Minh City, 700000, Viet Nam
+Department of Sociology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Institute for Nanotechnology (INT), Vietnam National University - Ho Chi Minh City (VNU-HCM), Community 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+HPC Lab - Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+University of Technology, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University HCM, Quarter 6, Linh Trung, Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+HCM City University of Technology, 268 Ly Thuong Kiet Street District 10, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University Hochiminh City, Faculty of Chemistry, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+International University - Vietnam National University HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+University of Science, John von Neumann Institute, VNU-HCM, Viet Nam
+International University of HCMC, School of Computer Science and Engineering, Quarter 6, Linh Trung, Thu Duc, HCM, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), Vietnam National University-Ho Chi Minh (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Department of Physical Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University, HoChiMinh City, Viet Nam
+University of Information Technology, Vietnam National University, Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Polymer Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University, HCMC Vietnam National University, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh University of Science, Ho Chi Minh, Viet Nam
+School of Business, International University - VNU HCMC, Viet Nam
+Institute for Environment and Resources, Viet Nam National University of Ho Chi Minh City, Ho Chi Minh, 740500, Viet Nam
+Department of Engineering Mechanics, Faculty of Applied Sciences, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Faculty of Chemistry, VNUHCM–University of Science, 227 Nguyen Van Cu Street227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+University of Information Technology, Linh Trung Ward, Thu Duc Dist, HCM City, Viet Nam
+Materials Technology Key Laboratory (Mtlab), Vietnam National University, Ho Chi Minh City, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Research Center for Genetics and Reproductive Health, School of Medicine, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University - HCMC, Linh Trung ward, Thu Duc district, Ho Chi Minh city, Viet Nam
+Faculty of Materials Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Str, Dist. 10, Ho Chi Minh City, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet street, District 10, Ho Chi Minh City, 70000, Viet Nam
+Department of Computer Science, University of Science, VNU-HCM, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Ly Thuong Kiet, 268, Viet Nam
+Department of Mathematics and Computer Science, VNUHCM-University of Science, 227 Nguyen Van Cu Str., Dist.5, HoChiMinh City, Viet Nam
+Department of Computer Science, University of Science, VNUHCM, Ho Chi Minh City, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Laboratory for Nanotechnology, Vietnam National University-Ho Chi Minh City, Community 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HoChiMinh City University of Technology, HoChiMinh City, Viet Nam
+Department of Information Systems, Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Tissue Engineering and Regenerative Medicine Group, Department of Biomedical Engineering, International University, Vietnam National University-HCMC (VNU-HCMC), Ho Chi Minh City, 70000, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+School of Electrical Engineering, International University-Vietnam National University Ho Chi Minh City (HCMC), Ho Chi Minh City, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Ecology and Evolutionary Biology, University of Science, Ho Chi Minh City, Viet Nam
+Department of Chemical Process Engineering and Control, University of Technology, VNU-HCM, 268 Ly Thuong Kiet Str. Dist. 10, HCM City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Quarter 6, Linh Trung ward, Thu Duc District, HoChiMinh City, Viet Nam
+Biomedical Engineering Department, International University, Viet Nam National University in HCMC700000, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Physics, International University, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University, Ho Chi Minh City, 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Center of Water Management and Climate Change, Viet Nam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronic Engineering, HCMC University of Technology, VNU Ho Chi Minh City, Viet Nam
+John von Neumann Institute, Vietnam National University, Ho Chi Minh City, Viet Nam
+Finance and Banking Department, International University (IU), Vietnam National University HCMC, HCM City, Viet Nam
+Laboratory of Cancer Research, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science, University of Information Technology, VNU-HCM, Viet Nam
+Dept. of Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University Ho Chi Minh City, 268 Ly Thuong Kiet St., Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, VNU-HCM, 70000, Viet Nam
+School of Computer Science and Engineering, International University - VNUHCM, Ho Chi Minh City, Viet Nam
+Department of Engineering Mechanics, Faculty of Applied Sciences, Ho Chi Minh City University of Technology -VNU, Viet Nam
+University of Information Technology, Linh Trung Ward, Thu Duc Dist, Ho Chi Minh city, Viet Nam
+Multimedia Communications Laboratory, University of Information Technology, VNU-HCM, Viet Nam
+Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+Control and Automation Laboratory, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Bach Khoa University, VNU-HCM, Ho Chi Minh City, 721337, Viet Nam
+University of Information Technology, VNU-HCM, Hochiminh city, Viet Nam
+Institute of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HoChiMinh City University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, Ho Chi Minh City University of Science, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University—Vietnam National University HCMC, Block 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Sciences, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+Vietnam National University, University of Social Sciences and Humanities, Ho-Chi-Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Ho Chi Minh city, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Science, 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Hochiminh City, Quarter 6, Linh Trung Ward, Thu Duc District, Hochiminh City, Viet Nam
+Department of Power Systems, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh city, 227 Nguyen Van Cu, D. 5, Ho Chi Minh city, Viet Nam
+Power Electric Department, Bach Khoa University, Ho Chi Minh City, Viet Nam
+Computer Vision and Robotics Department, University of Science, HCMC-VNU, Ho Chi Minh City, Viet Nam
+Faculty of Environment, Ho Chi Minh University of Science, Vietnam National University, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh city, Viet Nam
+Department of Mechanical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+University of Science VNU-HCM, 227 Nguyen Van Cu Street, Ho Chi Minh, Viet Nam
+Mechatronics Engineering Department, Ho Chi Minh City University of Technology, Viet Nam
+Department of Mathematics, University of Information Technology, Vietnam National University-HCMC, Thu Duc District, Ho Chi Minh City, Viet Nam
+University of Information Technology, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University, VNU HCMC, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh city University of Technology, Vietnam National University (VNU–HCM), 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+School of Business, International University Vietnam National University, Ho Chi Minh, Viet Nam
+University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, VNU- HCMC, 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, 700000, Viet Nam
+Department of Process Systems Engineering and Control, University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Urban Studies, University of Social Sciences and Humanities, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+University of Science- Vietnam National University, 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Tissue Engineering and Regenerative Medicine Group, Department of Biomedical Engineering, International University, Vietnam National University-HCMC (VNU-HCMC), HCMC70000, Viet Nam
+Department of Science and Technology, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Information Technology, University of Science, VNUHCM 227 Nguyen Van Cu, Dist. 5, Ho Chi Minh City, Viet Nam
+University of Science, VNU-HCMC Ho Chi Minh, Viet Nam
+Earth Resources and Environment Department, Faculty of Petroleum and Geology Engineering, Ho Chi Minh City University of Technology, 106 Blg8, 168 Ly Thuong Kiet, Dist.10, Ho Chi Minh City, Viet Nam
+Faculty of Geology, University of Science VNU-HCM, Ho Chi Minh, Viet Nam
+Department of Electrical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+Faculty of Computer Science, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City Univ. of Technology, Ho Chi Minh, 740128, Viet Nam
+Hochiminh City University of Technology (VNU-HCM), Hochiminh City, Viet Nam
+HCMUT, University of Technology, Viet Nam
+Stem Cell Institute, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Computer Networks and Communications, University of Information Technology, Vietnam National University of Hochiminh City, Ho Chi Minh City, Viet Nam
+Department of Software Engineering, University of Information Technology, Viet Nam
+Faculty of Electronics and Telecommunications, University of Science - VNU HCM, HCM City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Electrical-Electronic Engineering, DCSELAB, HCM City University of TechnologyVNU-HCM, Viet Nam
+Department of Aerospace Engineering, Faculty of Transportation Engineering, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Viet Nam
+Faculty of Biology and Biotechnology, University of Science, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University, 227 Nguyen Van Cu, Dist.5, Ho Chi Minh City, Viet Nam
+School of Electrical and Electronic Engineering, International University, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Ward 14, 68 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+University of Technology, Chi Minh City, Viet Nam
+VNU-HCMC, Faculty of Material Sciences, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, VNU-HCMC, District 5, Ho Chi Minh City, 700000, Viet Nam
+Vietnam National University, University of Science, Ho Chi Minh City, Viet Nam
+Department of Geomechanics, Faculty of Civil Engineering, University of Technology, Ho Chi Minh City, Viet Nam
+School of Industrial Management, Bach Khoa University, VNU, Ho Chi Minh City, Viet Nam
+Nuclear Technique Laboratory, VNUHCM-University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+VNUHCM-University of Science, 227 Nguyen Van Cu Street, District 5, Hochiminh City, Viet Nam
+Faculty Computer Science and Engineering, Ho Chi Minh City University of Technology-VNU-HCM, Ho Chi Minh City, Viet Nam
+Telecommunications Engineering Department, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Str., District 10, Ho Chi Minh City, Viet Nam
+HCMC University of Technology, Ho Chi Minh City, Viet Nam
+Department of Engineering Mechanics, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Biology and Biotechnology Department, University of Science, Ho Chi Minh, 700000, Viet Nam
+Natural Product and Medicinal Chemistry Lab, Faculty of Chemistry, VNUHCM University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, University of Technology-VNUHCM, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, VNUHCM, Viet Nam
+Department of Food Technology, School of Biotechnology, International University, HCMC National University, Viet Nam
+Center of Water Management and Climate Change, Vietnam National University, Ho Chi Minh City, 700000, Viet Nam
+Institute of Environment and Resources, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science – Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Multimedia Communications Laboratory, University of Information Technology, Viet Nam
+Department of Applied Chemistry, School of Biotechnology, International University, VNU-HCMC, Quarter 6, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Physics, University of Information Technology, Vietnam National University-Hochiminh City, Linh Trung Ward, Thu Duc District, Hochiminh City, Viet Nam
+Biotechnology Department, Inorganic Chemical Engineering Department, Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+National Key Laboratory of Digital Control and System Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Institute for Environment and Resources, National University of Ho Chi Minh City, Viet Nam
+Electrical Engineering Department, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Ho Chi Minh National University, No. 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Laboratory of Advanced Materials, University of Science, VNU-HCM, Viet Nam
+Department of Mathematics, International University, Vietnam National University-HCM, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Laboratory for Nanotechnology (LNT), Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Polymer and Composite Materials, Faculty of Materials Science, University of Science, Vietnam National University, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Science (VNU-HCM), 227 Nguyen Van Cu str., District 5, Ho Chi Minh City, Viet Nam
+University of Science Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Information System, UIT VNU HCM, Ho Chi Minh City, Viet Nam
+Vietnam National University of HoChiMinh City, Institute for Environment and Resources, Viet Nam
+School of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Computational Physics Laboratory, Institute of Technology, Vietnam National University, Ho Chi Minh City, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Engineering Mechanics, Ho Chi Minh City University of Technology – VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University, VNU HCM, Viet Nam
+Center of Water Management and Climate Change (WACC), Vietnam National University - Ho Chi Minh City (VNU - HCM), A3 Street, Tan Hoa Quarter, Dong Hoa Ward, Di An Town, Binh Duong, Viet Nam
+Department of Mathematics and Computer Science, University of Science, Viet Nam National University, Ho Chi Minh City, Viet Nam
+Department of Engineering Geology, University of Science, 227 Nguyen Van Cu street, Ward 4, District 5, Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Applied Mathematics, Faculty of Applied Science, HCMC University of Technology, Viet Nam
+School of Business, International University - VNU-HCMC, Ho Chi Minh, Viet Nam
+National Key Laboratory of Digital Control and System Engineering, HCMUT, VNU-HCM, Viet Nam
+Department of Physical Chemistry, University of Science, VNU-HCM, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 700000, Viet Nam
+HoChiMinh City University of Technology, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Department of Mathematics, University of Science, Vietnam National University, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+HCM city University of Technology, Ho Chi Minh City, Viet Nam
+Department of Theoretical Physics, Ho Chi Minh City University of Science, Ho Chi Minh City, Viet Nam
+Division of Power System Engineering, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Department of Mathematics, University of Science of Hochiminh City, Hochiminh City, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, Dist. 10, Ho Chi Minh City, Viet Nam
+School of Business, International University - VNU HCMC, Quarter 6, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+International University and Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electronics and Telecommunications, University of Science, VNU HCM, HCM City, Viet Nam
+International University, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+Department of Physics, HCM International University, VNU, Block 6, Linh Trung Ward, Thu Duc District, HCM City, 720400, Viet Nam
+Department of Mechanics, Faculty of Mathematics and Computer Science, University of Science, Ho Chi Minh City, Viet Nam
+Department of Information Science and Engineering, University of Information Technology, Vietnam National University - Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Technology, Ho Chi Minh City, 700000, Viet Nam
+Cancer Research Laboratory, VNUHCM-University of Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Falcuty of Biology and Biotechnology, University of Sciences, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Electrical Engineering, International University (IU), Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, National University of Ho Chi Minh City, 227 Nguyen Van Cu, Ho Chi Minh City, Ho Chi Minh, 70000, Viet Nam
+Dept. of Civil Engineering, International University-VNU HCMC, Hanoi, Viet Nam
+School of Business, International University – Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Mathematics, Computer Science, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Vietnam National University, Ho Chi Minh, Viet Nam
+DCSELAB, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Social Sciences and Humanities, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Chemical Engineering, Ho Chi Minh University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh, Viet Nam
+University of Science, Department of Computer Science, Ho Chi Minh city, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Vietnam National University Hochiminh City, Cancer Research Laboratory, 227 Nguyen Van Cu, District 5, Hochiminh City, Viet Nam
+University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Ward 14, 70000, Viet Nam
+Department of Power Systems, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+University of Information Technology, Viet Nam
+Faculty of Computer Science & Engineering HCMC University of Technology, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Faculty of Electronics and Electrical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+School of Biotechnology, International University, Vietnam National University at Ho Chi Minh, Viet Nam
+Faculty of Information Technology, University of Science, VNU-HCMC, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University in Ho Chi Minh City, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, Vietnam National Univeristy, Ho Chi Minh City, Viet Nam
+VNUHCM-University of Science, Faculty of Mathematics and Computer Science, 227 Nguyen Van Cu Street, Ho Chi Minh City, District 5, Viet Nam
+Faculty of Mechanical Engineering, University of Technology, Ultimo, Viet Nam
+HCM City University of Technology, 268 Ly Thuong Kiet Street, Ward 14, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Hochiminh City University of Technology (VNU-HCM), Hochiminh city, Viet Nam
+Faculty of Physics and Engineering Physics, HCM University of Science-VNU, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Hochiminh University of Technology, Hochiminh City National University, Viet Nam
+Research Center for Genetics and Reproductive Health (CGRH), School of MedicineVietnam National University HCMC, Linh Trung, Thu Duc, Ho Chi Minh, Viet Nam
+Faculty of Materials Engineering, Ho Chi Minh City University of Technology (HCMUT), VNU-HCM, Ho Chi Minh city, Viet Nam
+Faculty of CSE, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Vietnam National University of Hochiminh City, 142 To Hien Thanh Street, District 10, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Vietnam National University - Hochiminh City, 142 To Hien Thanh St., Dist. 10, Hochiminh City, Viet Nam
+Biomedical Engineering Department, University of Technology –VNU HCM, 268 Ly Thuong Kiet Str., Distr. 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, VNU-HCM, Ho Chi Minh City, 721337, Viet Nam
+Department of Organic Chemistry, University of Science, National University – Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, 748355, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Computer Science, University of Science, VNU-HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, Ho Chi Minh City, 700000, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology VNU-HCM, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+University of Science, VNU-HCMC, Viet Nam
+Cancer Research Laboratory, Vietnam National University, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Molecular and Environmental Biotechnology, University of Science, Vietnam National University in, Ho Chi Minh City, Viet Nam
+Materials Technology Key Laboratory (Mtlab), Ho Chi Minh City University of Technology, Vietnam National University, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Hochiminh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, Vietnam National University Ho Cho Minh City, University of Science, Ho Chi Minh City, 748355, Viet Nam
+Department of Physiology and Animal Biotechnology, Laboratory of Tissue Engineering and Biomedical Materials, Faculty of Biology – Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet St., Dist.10, Ho Chi Minh City, 700000, Viet Nam
+School of Computer Science and Engineering, International University - VNUHCM, Ho Chi Minh, Viet Nam
+Sensory Laboratory, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Viet Nam National University, Ho Chi Minh City, Viet Nam
+Analog Group, Integrated Circuit Design Research and Education Center (ICDREC), Vietnam National University, Ho Chi Minh-City, Viet Nam
+University of Science-Vietnam National University Ho Chi Minh City, Viet Nam
+Department of Power Systems Engineering, Faculty of Electrical and Electronics Engineering, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Faculty of Geology and Petroleum Engineering, Department of Drilling and Production Engineering, Ho Chi Minh City University of Technology-Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University - VNU HCMC, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Centre asiatique de recherche sur l'eau (CARE), Bach Khoa University, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Accounting and Auditing, University of Economics and Law, Viet Nam National University, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University in HoChiMinh City, Quarter 6, Linh trung Ward, Thu Duc District, HoChiMinh City, Viet Nam
+Ho Chi Minh City University of Social Sciences and Humanities, Viet Nam
+Dept. of Computer Networks, University of Information Technology, Vietnam National University HCM City, Viet Nam
+Faculty of Mechanical Engineering, Hochiminh City University of Technology, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Vietnam National University in Ho Chi Minh City, 227 Nguyen Van Cu, Ho Chi Minh City, 760000, Viet Nam
+Department of Molecular and Environmental Biotechnology, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University at Ho Chi Minh City, Viet Nam
+Department of Electrical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, 70000, Viet Nam
+Department of Mathematics, University of Natural Science, Vietnam National University, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Faculty of Environment, HCMUT, Ho Chi Minh City, Viet Nam
+Department of Genetics, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, 748355, Viet Nam
+University of Sciences, National University of Hochiminh City, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, National University of Ho Chi Minh City, Ho Chi Minh, 740500, Viet Nam
+University of Science, Ho Chi Minh, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City of University Technology, Viet Nam
+Department of Physical Chemistry, Faculty of Chemistry, University of Science, VNU-HCM, 70000, Viet Nam
+University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Center for International Studies (scis), University of Social Sciences and Humanities in Ho Chi Minh City, Viet Nam
+Department of Mathematics and Physics, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University HoChiMinh City (VNU-HCM), 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University-Vietnam National University, Ward 6, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM), 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University-HCMC, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science VNUHCM, 225 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University - HCMC, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Environment, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science, University of Information Technology, Faculty of Information Technology, Ho Chi Minh City, Viet Nam
+FEEE DCSELAB, HCM City University of Technology, Ho Chi Minh City, Viet Nam
+School of Business, International University Vietnam National University HCMC
+Faculty of Environment, Vietnam National University Ho Chi Minh City, University of Science, 227 Nguyen Van Cu St., W4, D5, Ho Chi Minh City, Viet Nam
+Department of Mechanical Engineering, HCM City International University, HCMUT-VNU, HCM City, Viet Nam
+Faculty of Chemistry, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+International University of Vietnam National University, Viet Nam
+Laboratory of Applied Mechanics, Faculty of Applied Science, Ho Chi Minh City University of Technology, Ho Chi Minh, 740-128, Viet Nam
+School of Computer Science and Engineering, International University - VNUHCM, Viet Nam
+Department of Chemical Engineering, HCMC University of Technology, VNU-HCM, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science – VNUHCM, 225 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Hochiminh City, 227 Nguyen Van Cu Street District 5, Viet Nam
+Ho Chi Minh City International University, Ho Chi Minh, Viet Nam
+Faculty of Physics and Engineering Physics, VNUHCM - University of Science, Campus 1, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Dept. of Information System, School of Information Technology, VNUHCM - the University of Science, Ho Chi Minh City, Viet Nam
+School of Electrical Engineering, International University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh city University of Technology, School of Industrial Management VNU-HCM, Viet Nam
+VNUHCMC-University of Science, Center for Bioscience and Biotechnology, 227 Nguyen Van Cu, Hochiminh, Dist. 5, Viet Nam
+Department of Electrical and Electronics Engineering, University of Technology-VNUHCM, Viet Nam
+University of Information Technology, Vietnam National University, HCM City, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science and Laboratory of Advanced Materials, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+John von Neumann Institute, Vietnam National University, HCMC, Ho Chi Minh City, Viet Nam
+VNUHCM, University of Science, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Viet Nam National University in Ho Chi Minh City, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University – Ho Chi Minh City, 227 Nguyen Van Cu str., Dist. 5, Ho Chi Minh City, Viet Nam
+School of Business, International University–Vietnam National University of Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University-VNU, HCMC, Viet Nam
+Department of Civil Engineering, International University, VNU-HCM, Thu Duc District, Ho Chi Minh City, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Faculty of Electrical Electronics Engineering (FEEE), Ho Chi Minh City University of Technology, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+School of Computer Science, University of Information Technology (UIT), Hochiminh City, Viet Nam
+HoChiMinh City University of Technology, HoChiMinh City, Viet Nam
+Academic Affairs Department, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, VNU-HCM, Block 6, LinhTrung Ward, Ho Chi Minh City, Thu Duc District, 70000, Viet Nam
+School of Industrial Management, University of Technology, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Nuclear Physics, Faculty of Physics and Engineering Physics, VNUHCM-University of Science, 227, Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Dept. of Information System, School of Information Technology, VNUHCM -the University of Science, Ho Chi Minh City, Viet Nam
+School of Business, International University Vietnam National University of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Faculty of Social Work, Ho Chi Minh University of Social Sciences and Humanities, 10-12 Dinh Tien Hoang, District 1, Ho Chi Minh City, Viet Nam
+Biology Faculty, University of Science, VNU-HCM, Ho Chi Minh City, 700000, Viet Nam
+Department of Computer Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Physical Chemistry, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, 721337, Viet Nam
+Department of Physics, HCM International University-Vietnam National University, Block 6, Linh Trung Ward, Thu Duc District, HCM city, Viet Nam
+Faculty of Mechanical Engineering, HCMC University of Technology, 268 Ly Thuong Kiet Street, Ward 14, District 10, HCM City, Viet Nam
+Faculty of Environment, University of Science, VNU-HCM, Viet Nam
+Key Laboratory of Chemical Engineering and Petroleum Processing, HCMUT-VNUHCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Environmental Science, University of Science, Vietnam National University, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Power Systems, HCM City University of Technology, 268 Ly Thuong Kiet street, 10th district, HCM City, Viet Nam
+Ho Chi Minh University of Technology, Viet Nam
+Department of Computer Science, University of Information Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Hochiminh City University of Technology, Department of Chemical Process and Equipment, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science University of Science, Vietnam National University, Ho Chi Minh City 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Science, VNU-HCM, Viet Nam
+Dept. of Civil Engineering, Ho Chi Minh City Univ. of Technology, 268 Ly Thuong Kiet District 10, Ho Chi Minh City, 740128, Viet Nam
+Faculty of Economic Mathematics, University of Economics and Laws, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology - HCM-VNU, Ho Chi Minh, Viet Nam
+Faculty of Environment and Natural Resources, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Hochiminh University of Technology, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, Ho Chi Minh University of Science, Ho Chi Minh city, Viet Nam
+Faculty of Chemical Engineering, University of Technology, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, Faculty of Physics and Engineering Physics, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University (VNUHCM), 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science - VNUHCM, Ho Chi Minh city, Viet Nam
+Laboratory of Advanced Materials, University of Science, Vietnam National University in Ho Chi Minh, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University–HCMC, Quarter 6, LinhTrung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+CARE, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City (VNU-HCM), 268 Ly Thuong Kiet St, Dist. 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh (VNU-HCM), Ho Chi Minh City, 721337, Viet Nam
+Department of Food Technology, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet street, District 10, Ho Chi Minh City, Viet Nam
+Bach Khoa University, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+CT13TIE01, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Laboratory of Biofuel and Biomass, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Str., Dist. 10, HCM City, Viet Nam
+HCMC University of Natural Sciences, Ho Chi Minh, Viet Nam
+National Key Laboratory of Digital Control and System Engineering, VNU-HCM, University of Technology, Hochiminh City University of Technology, No. 268, Ly Thuong Kiet Street, District 10, Ho Chi Minh City, 70000, Viet Nam
+Faculty of Chemistry, Department of Organic Chemistry, Ho Chi Minh University of ScienceHo Chi Minh, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, VNUHCM-University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Department of Linguistics, Ho Chi Minh City University of Social Sciences and Humanities, VNU-HCM, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University Hochiminh City, Hochiminh City, Viet Nam
+University of Natural Sciences, Vietnam National University, 227 Nguyen Van Cu, dist.1, Ho Chi Minh City, HCMC, Viet Nam
+International University, Vietnam National University, HCMC, Quarter 6 Linh Trung Ward Thu Duc District, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, 268 Ly Thuong Kiet Street District 10, Ho Chi Minh City, Viet Nam
+Department of Geomechanics and Foundation, Ho Chi Minh City university of Technology, Ho Chi Minh City, Viet Nam
+Hoang Ho Chi Minh City, University of Technology, VNU HCM, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computing, University of Science, Vietnam National University Hochiminh City, Hochiminh City, Viet Nam
+Department of Chemical Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, IU, VNU, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University, Vietnam National University, Ho Chi Minh city, Viet Nam
+Faculty of Electrical and Electronic Engineering, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+International University - HCMC, Vietnam National University, Viet Nam
+High School for the Gifted, VNUHCM, 153 Nguyen Chi Thanh, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+School of Biotechnology, International University, Vietnam National University-Ho Chi Minh City (VNU-HCM), Quarter 6, Thu Duc District, Ho Chi Minh City, 70000, Viet Nam
+Faculty of Computer Network and Communication, University of Information Technology, VNUHCM, Linh Trung ward, Thu Duc district, Ho Chi Minh city, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Science, Viet Nam
+Department of Electronics and Electrical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Food Technology, International University, Vietnam National University, HCM city, Viet Nam
+Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet, Ho Chi Minh City, Viet Nam
+Department of Materials Science, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, National University - Ho Chi Minh City, Ho Chi Minh City, 748355, Viet Nam
+John von Neumann Institute, Vietnam National University at Ho Chi Minh City, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Laboratory for Horticultural Lighting and Monitoring (Satellite lab of LAFTRC), National University of Science, Linh Trung Campus, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Maths and Computer Science, University of Science, Vietnam National University, 227 Nguyen Van Cu, Dist.5, HoChiMinh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Hochiminh City University of Technology HCM B2015-20-02, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, 700000, Viet Nam
+University of IT, Vietnam National University HCM, Viet Nam
+FEEE, DCSELAB, Ho Chi Minh City University of Technology, Vnu-Hcm, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, No. 286 Ly Thuong Kiet Street, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, Ho Chi Minh City University of Technology, Vietnam National University Ho Chi Minh City, Viet Nam
+Advanced Program in Computer Science, University of Science, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City, University of Science, Viet Nam
+University of IT, VNU HCMC, Ho Chi Minh City, Viet Nam
+Department of Industrial Systems Engineering, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Ho Chi Minh City University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Engineering Mechanics, Faculty of Applied Sciences, Ho Chi Minh City University of Technology – Vietnam National University, Ho Chi Minh City, Viet Nam
+Center ofWater Management and Climate Change (WACC), Viet Nam National University-Ho Chi Minh City (VNU-HCM), Ho Chi Minh City, 12345, Viet Nam
+Faculty of Chemical Engineering, University of Technology, VNU-HCM, 268 Ly Thuong Kiet Str., Dist. 10, HCM City, Viet Nam
+Faculty of Software Engineering, University of Information Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+Computer Science Department, University of Science, VNU - HCM, Viet Nam
+Department of Mathematics, International University, Vietnam National University Hochiminh City, Hochiminh City, Viet Nam
+Faculty of Chemistry, University of Sciences, Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resources, Ho Chi Minh City University of Technology – Vietnam National University, Ho Chi Minh City, Viet Nam
+Dept. Food Technology, Hochiminh City University of Technology - VNU-HCM, 268 Lythuongkiet Street, 14 Ward, 10 District, HCM City, Viet Nam
+Faculty of Chemistry, VNUHCM−University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Geology and Petroleum Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Laboratory for Nanotechnology (LNT), Vietnam National University Ho Chi Minh City, Community 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Industrial Management, HoChiMinh City University of Technology, HoChiMinh City, Viet Nam
+HCM City University of Technology, Ho Chi Minh City, Viet Nam
+Petrol Vietnam Chemical Fertilizer Company, University of Technology Ho, Chi Minh City, Viet Nam
+Department of Construction Materials, Ho Chi Minh City University of Technology, Viet Nam
+Department of Telecommunication, Faculty of Electrical and Electronic Engineering, Vietnam National University, University of Technology, Ho Chi Minh-City, Viet Nam
+Faculty of Biology, University of Science, Vietnam National University in HoChiMinh City, 227 Nguyen Van Cu Street, District 5, HoChiMinh City, Viet Nam
+University of Science, Nguyen Van Cu St., Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HoChiMinh City University of Technology, 268 Ly Thuong Kiet Str., District 10, Ho Chi Minh City, Viet Nam
+Department of Electronics, Ho Chi Minh City University of Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Computer Science, University of Information Technology, VNUHCM, Ho Chi Minh City, Viet Nam
+Faculty of Physics & Engineering Physics, HCMC University of Science VNU, 227 Nguyen Van Cu St., Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Department of Mathematical Economics, University of Law and Economics, Viet Nam National University, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Science, Chi Minh City, Viet Nam
+Faculty of Material Science, University of Science, Vietnam National University Ho Chi Minh City (VNU), Viet Nam
+Department of Microbiology, University of Science, Vietnam National University-HCM City, 227 Nguyen Van Cu Street, Ward 4, District 5, Hochiminh City, Viet Nam
+Faculty of Chemical Engineering, University of Technology, Vietnam National University, 268 Ly Thuong Kiet Street, District 10, HoChiMinh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Electrical and Engineering, International University-VNUHCM, Viet Nam
+Bach Khoa University, Vietnam National University–HCMC, Ly Thuong Kiet Street, District 11, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, District 10, Ho Chi Minh City, Viet Nam
+Department of Civil Engineering, International University - VNU HCMC, Ho Chi Minh City, Viet Nam
+Biomedical Engineering Department, University of Technology - VNU HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Nguyen Faculty of Electrical and Electronics Engineering, Hochiminh City University of Technology, HCMUT-VNU, Hochiminh, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Keylab for Internal Combustion Engine, Ho Chi Minh City University of Technology, Viet Nam
+Laboratory for Nanotechnology, Vietnam National University in Ho Chi Minh City, Community 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh, Viet Nam
+Computer Science and Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Electrical Engineering, Ho Chi Minh City University of Technology700000, Viet Nam
+Faculty of Chemical Engineering, University of Technology, Vietnam National University in HoChiMinh City, 268 Ly Thuong Kiet Street, District 10, HoChiMinh City, Viet Nam
+Ho Chi Minh City University of Natural Science, HCM National University, Department of Microbiology, Faculty of Biology, Ho Chi Minh City, Viet Nam
+Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, Award 4, District 5, Ho Chi Minh City, Viet Nam
+Nuclear Technique Laboratory, VNUHCM-University of Science, Ho Chi Minh City, Viet Nam
+Department of Aerospace Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, Faculty of Applied Science, Ho Chi Minh City University of Technology - VNU HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, Ho Chi Minh, Viet Nam
+Dept of Electronics and Electrical Eng., Bach Khoa University of Ho Chi Minh City, Viet Nam
+Department of Electrical and Electronics Engineering, Ho Chi Minh University of Technology (HCMUT), Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Hochiminh City University of Technology, Viet Nam
+Faculty of Materials Science, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Materials Technology, Ho Chi Minh city University of Technology, Vietnam National University (VNU-HCM), 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+Dept. Information of Technology, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, University of Science, Vietnam National University - HCM City, 227 Nguyen Van Cu St., Ward 4, District 5, HCM City, Viet Nam
+Department of Foreign Languages, University of Economics and Law–Vietnam National University (Ho Chi Minh City), Ho Chi Minh City, Viet Nam
+Computer Science and Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Vietnam National University Ho Chi Minh City, University of Science, Viet Nam
+Applied Physical Chemistry Laboratory, Vietnam National University – Ho Chi Minh City, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+Department of Environmental Engineering, Ho Chi Minh City International University, Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Vietnam National University - Ho Chi Minh, District 10, Ho Chi Minh City, Viet Nam
+Division of Molecular Modeling, Center for Innovative Materials and Architectures, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Industrial Management, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+International University - Vietnam National University HCMC, Linh Trung Ward, Chi Minh City, Viet Nam
+Faculty of Applied Science, Ho Chi Minh University of Technology, Ho Chi Minh City, Viet Nam
+Pharmaceutical Engineering Laboratory, Biomedical Engineering Department, International University, Vietnam National University – Ho Chi Minh City700000, Viet Nam
+Faculty of Electrical and Electronic Engineering (FEEE), DCSELAB, HoChiMinh City University of Technology, VNU-HCM, Viet Nam
+Faculty of Chemical Engineering, HCMUT-VNUHCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Optimization and System Theory, University of Science, Vietnam National University Hochiminh City, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Biomedical Engineering Department, International University, National Universities in HCMC, HCMC, 70000, Viet Nam
+School of Business, International University - Vietnam National University, Quarter 6, Linh Trung ward, Thu Duc district, Ho Chi Minh city, Viet Nam
+School of Computer Science and Eng., International University-VNUHCM, Vietnam, 268 Ly Thuong Kiet, Dist 10, HCMC, Viet Nam
+Faculty of Information Technology, VNUHCM - University of Science, Ho Chi Minh City, Viet Nam
+Department of Physical Chemistry, University of Science, Vietnam National University – Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, Viet Nam
+Department of Physics, HCM International University, VNU, Block 6, Linh Trung Ward, Thu Duc District, HCM City, Viet Nam
+School of Industrial Management, HCMC University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Biology, University of Natural Sciences, Ho Chi Minh City National University, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology - VNUHCM, District 10, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly, Thuong Kiet, Viet Nam
+Faculty of Computer Science and Engineering of Ho Chi Minh City, University of Technology, Vietnam National University, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+School of Business, International University-Vietnam National University, Viet Nam
+Faculty of Civil Engineering, University of Technology, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department of Genetics, Faculty of Biology, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, VNUHCM—University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Information Security Laboratory, University of Information Technology, Vietnam National University, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Dept. of Electronics and Electrical Eng., Ho Chi Minh City Uni. of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Bach Khoa University, University of Technology-HCMUT, Ho Chi Minh City, Viet Nam
+Department of Biomedical Engineering, International University-Vietnam National University, Ho Chi Minh, Viet Nam
+Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, Vietnam, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, VNUHCM-University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Environment and Natural Resources, University of Technology, Vietnam National University-Ho Chi Minh, Viet Nam
+School of Business—HCMIU, Vietnam National University—HCMC, Quarter 6, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Department of Theoretical Physics, University of Science, Vietnam National University-HCMC, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, VNUHCM-University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Information Technology, VNUHCM-University of Science, Ho Chi Minh city, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+., FIT, University of Science VNU-HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU-HCMC, 227 Nguyen Van Cu Str. Dist. 5, Ho Chi Minh City, Viet Nam
+University of Natural Science, Vietnam National University, Ho Chi Minh City, 227 Nguyen Van Cu Road, District 5, Ho Chi Minh City, 10001, Viet Nam
+School of Biotechnology, International University Vietnam National University HCMC, Block 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Hochiminh City University of Technology, Vietnam National University - Hochiminh City, 268 Ly Thuong Kiet St., Dist. 10, Hochiminh City, Viet Nam
+School of Computer Science and Engineering, International University, Vnuhcm, Viet Nam
+University of Science, Viet Nam National University Ho Chi Minh City, No. 227 Nguyen Van Cu Street., Ward 4, District 5, Ho Chi Minh City, 700000, Viet Nam
+University of Science, Vietnam National University – Hochiminh City, 227 Nguyen Van Cu Street, District 5, Hochiminh City, Viet Nam
+Faculty of Computer Science and Engineering, HCM University of Technology, Viet Nam
+Faculty of Physics and Engineering Physics, Viet Nam National University Ho Chi Minh City, University of Science, Ho Chi Minh City, Viet Nam
+International University-VNUHCM, Quarter 6 Linh Trung, Thu Duc Ho Chi Minh City, Viet Nam
+Biomedical Engineering Dept. International University, Vietnam National University, Ho Chi Minh, Viet Nam
+Department of Biochemistry, Faculty of Biology and Biotechnology, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Mechatronics, Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Mathematics and Computer Science, University of Natural Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu Str., Dist. 5, Ho Chi Minh City, Viet Nam
+School of Business HCMIU, Vietnam National University HCMC, Quarter 6, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Department of Engineering Mechanics, HCM City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Laboratory of Advanced Materials, University of Science, VNU-HCM, Ho Chi Minh City, 700000, Viet Nam
+Department of Applied Science, HoChiMinh City University of Technology, Viet Nam
+Faculty of Physics and Engineering Physics, VNUHCM–University of Science, 227 Nguyen Van Cu, Ho Chi Minh City, Viet Nam
+Telecommunications Engineering Department, HoChiMinh City University of Technology, 268 Ly Thuong Kiet Street, District 10, HoChiMinh City, Viet Nam
+Faculty of Computer Science and Engineering, Bach Khoa University, Viet Nam
+Stem Cell Institute, University of Science, VNUHCM, Ho Chi Minh, Viet Nam
+Hochiminh University of Technology, Viet Nam
+FIT, University of Science VNU-HCMC, Ho Chi Minh City, Viet Nam
+Board and Postgraduate Departments, Viet Nam National University Ho Chi Minh City, 6 Quarter, Thu Duc District, Ho Chi Minh City, Viet Nam
+School of Engineering and Technology, TraVinh University, Viet Nam, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Laboratory of Stem Cell Research and Application, Ho Chi Minh City University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, Vietnam National University, 227 Nguyen Van Cu Str., 5 Dist, Ho Chi Minh City, Viet Nam
+Department of Machine Design, HCM University of Technology, 268 Ly Thuong Kiet, District 10, Ho Chi Minh City, Viet Nam
+University of Technology, VNU-HCM, Viet Nam
+Department of Theoretical Physics, University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, Ho Chi Minh City, Viet Nam
+International University, Vietnam National University, HCMC, Ho Chi Minh, Viet Nam
+Faculty of Computer Engineering, University of Information Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Faculty of Biology - Biotechnology, Vietnam National University Ho Chi Minh City-University of Science, 227 Nguyen Van Cu, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Computer Science and Engineering, HCMC University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Comp. Phys. Lab, HochiMinh City Univ. of Technology, Vietnam National University-HochiMinh City, HochiMinh City, Viet Nam
+Department of Biochemistry, Faculty of Biology, University of Science, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HoChiMinh City University of Technology, 268 Ly Thuong Kiet Str., District 10, HoChiMinh City, Viet Nam
+Faculty of Electrical-Electronics Engineering, HCMC University of Technology, Viet Nam
+Applied Physical Chemistry Laboratory, Vietnam National University Ho Chi Minh City, Linh Trung, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Computer Engineering, University of Information Technology in VNUHCM, Viet Nam
+Biomedical Engineering Department, University of Technology, VNU HCM 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, HoChiMinh City, Viet Nam
+Department of Food Technology, Faculty of Chemical Engineering, National University - Ho Chi Minh City, University of Technology, Viet Nam
+Department of Management Information System, School of Industrial Management, Bach Khoa University (VNU-HCM), 268 Ly Thuong Kiet, D. 10, Ho Chi Minh City, Viet Nam
+Vietnam National University School of Medicine, Linh Trung Ward, Ho Chi Minh City, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, VNU-HCM, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+HCMC University of Technology, Faculty of Computer Science and Engineering, 268 Ly Thuong Kiet, Q10, HCM City, Viet Nam
+School of Biotechnology, International University - Vietnam National University, Ho Chi Minh City, Viet Nam
+Vietnam National University - Ho Chi Minh City, University of Science, Faculty of Environmental Science, 227 Nguyen Van Cu Str., Dist.5, HCMC, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh city, Viet Nam
+Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh city, Viet Nam
+University of Science, Vietnam National University, 115 Hospital, Ho Chi Minh City, Viet Nam
+University of Sciences, Vietnam National University, 227 Nguyen Van Cu Q5, Hochiminh City, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, Ho Chi Minh City, 703500, Viet Nam
+University of Social Sciences and Humanities, Vietnam National University, Ho Chi Minh City, Viet Nam
+University of Science, HCMC, 227 Nguyen Van Cu, District 5, Viet Nam
+Faculty of Environmental Science, University of Science, Vietnam National University - Ho Chi Minh City, 227 Nguyen Van Cu St., Dist. 5, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources, Vietnam National University of Hochiminh City, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Science, Ho Chi Minh City, Viet Nam
+Faculty of Physics and Engineering Physics, Ho Chi Minh City University of Science, Ho Chi Minh City, 748355, Viet Nam
+Tissue Engineering and Regenerative Medicine Laboratory, Department of Biomedical Engineering, International University, HCMC, 700000, Viet Nam
+Center for Interdisciplinary Research in Technology, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Mathematics, International University, Vietnam National University Hochiminh City, Linh Trung, Thu Duc, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, HCMC University of Technology, HCMC, Viet Nam
+MCI-MBA program in Vietnam, HCMC University of Technology, VNU-HCM, Ho Chi Minh City, Viet Nam
+Department of Heat and Refrigeration Engineering, Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Ho Chi Minh City University of Technology, Vietnam National University - Ho Chi Minh City, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University Ho Chi Minh City, 227 Nguyen Van Cu street, District 5, Ho Chi Minh City, Viet Nam
+Center for Genetics and Reproductive Health (CGRH), School of Medicine, Vietnam National University HCMC, Ho Chi Minh City, Viet Nam
+Faculty of Chemical Engineering, Ho Chi Minh City University of Technology, VNU-HCM, 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Viet Nam
+Department Ecology & Evolutionary Biology, SEDES IJL, University of Science, Vietnam National University, 227, Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Materials Science, University of Science, VNU-HCMC, 227 Nguyen Van Cu Street, Ho Chi Minh City, 700000, Viet Nam
+Department of Computer Science and Engineering, International University, VNUHCM, Viet Nam
+Faculty of Information Technology, VNU-HCM University of Science, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Physics and Engineering Physics, VNUHCM-University of Science, HCMC, Viet Nam
+Faculty of Information Technology, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU, Ho Chi Minh City, Viet Nam
+Department of Solid State Physics, Faculty of Physics, University of Science, Vietnam National University, Ho Chi Minh City (VNU-HCM), 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+School of Computer Science and Engineering, International University Vietnam National University, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 700000, Viet Nam
+Faculty of Environmental Science, University of Science, Vietnam National University-Ho Chi Minh City, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, University of Science of Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+Department of Applied Physics, Faculty of Physics and Engineering Physics, University of Science, VNU-HCM, 227 Nguyen Van Cu Street, Award 4, District 5, Ho Chi Minh City, Viet Nam
+IRD, UMR MARBEC–SEDES IJL, Department Ecology & Evolutionary Biology, University of Science, Vietnam National University, 227, Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Power Systems, Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+John von Neumann Institute-Vietnam National University, HCMC, VNU IT Park Linh Trung Ward, Thu Duc District, Viet Nam
+Faculty of Mathematics and Computer Science, Ho Chi Minh City University of Science, Viet Nam
+Faculty of Biology-Biotechnology, University of Science, Vietnam National University, Ho Chi Minh, Viet Nam
+Department of Biotechnology, School of Biotechnology, Vietnam National University, Ho Chi Minh City, 70000, Viet Nam
+Center for Innovative Materials and Architectures (INOMAR), Vietnam National University, Ho Chi Minh City (VNU-HCM), Quart 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, Vietnam National University, HoChiMinh City (VNU-HCM), 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Department of Fluid Mechanics, Hochiminh City University of Technology, 10th District, 268 Ly Thuong Kiet Street, Hochiminh City, Viet Nam
+Ho Chi Minh City University of Technology, VNU-HCM, Viet Nam
+Department of Electrical and Electronic Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+School of Biotechnology, International University, Vietnam National University-HCM, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, 70000, Viet Nam
+Department of Ecology, Evolutionary Biology, Vietnam National University Ho Chi Minh City (VNUHCM), University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Ho Chi Minh City University of Science, 227 Nguyen Van Cu st., Ho Chi Minh City, Viet Nam
+Center for Molecular and NanoArchitecture (MANAR), Vietnam National University–Ho Chi Minh City, Quarter 6, Linh Trung Ward, Thu Duc District, Ho Chi Minh City, Viet Nam
+Faculty of Mechanical Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet Street-Distric10, HoChiMinh City, Viet Nam
+Dept. of Civil Engineering, Ho Chi Minh City Univ. of Technology, 268 Ly Thuong Kiet St., Dist. 10, Ho Chi Minh, Viet Nam
+Laboratory of Stem Cell Research and Application, University of Science, Vietnam National University, Ho Chi Minh city, Viet Nam
+UIT, VNU-HCMC, Ward no. 6. LinhTrung, ThuDuc Dist., HCMC, Viet Nam
+Faculty of Physics and Engineering Physics, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+HCMC U. of Technology, Viet Nam
+School of Computer Science and Engineering, International University, VNU, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Institute for Environment and Resources (IER), Vietnam National University of Ho Chi Minh City, Viet Nam
+Center for Mathematical Science, University of Science, Ho Chi Minh City National University, No. 227 Nguyen Van Cu Street, Ward 4, District 5, Ho Chi Minh City, Viet Nam
+Faculty of Mathematics and Computer Science, University of Science, VNU-HCMC, Ho Chi Minh city, Viet Nam
+Faculty of Civil Engineering, Ho Chi Minh City University of Technology, 268 Ly Thuong Kiet St., Dist. 10, Ho Chi Minh City, Viet Nam
+Vietnam National University-Ho Chi Minh City, Ho Chi Minh City, Viet Nam
+University of Information Technology, VNU HCMC, Viet Nam
+University of Information Technology, VNU-HCMC, Viet Nam
+Faculty of Information Technology, Hochiminh City University of Technology, Hochiminh City, Viet Nam
+Mircoelectronics Lab, Ho Chi Minh City University of Technology, Ho Chi Minh City, Viet Nam
+Department of Biochemistry, University of Science, Vietnam National University, Ward 4, District 5, Ho Chi Minh City, 749000, Viet Nam
+John von Neumann Institute, Vietnam National University, Ho Chi Minh, Viet Nam
+Department of Physics, University of Information Technology, Hochiminh City, Viet Nam
+VNUHCM-International University, School of Biotechnology, Quarter 6, Linh Trung Ward, Ho Chi Minh City, Thu Duc District, Viet Nam
+Department of Process Systems Engineering and Control, University of Technology, VNU-HCM, 268 Ly Thuong Kiet Str., Dist. 10, HCM City, Viet Nam
+International University, Vietnam National University, HCMC, Ho Chi Minh City, Viet Nam
+University of Science, VNU-HCM, 227 Nguyen Van Cu Street, Ho Chi Minh City, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, University of Science, Vietnam National University, Ho Chi Minh City, Viet Nam
+Faculty of Electrical and Electronics Engineering, HCM City University of Technology, HCMUT-VNU, HCM City, Viet Nam
+Department of Ecology Evolutionary Biology, Vietnam National University Ho Chi Minh City (VNUHCM) University of Science, 227 Nguyen Van Cu Street, District 5, Ho Chi Minh City, Viet Nam
+Computer Science & Engineering (CSE), Ho Chi Minh City University of Technology - HCMUT, Vietnam National University, Ho Chi Minh City, Viet Nam
+Department of Telecommunications Engineering, HoChiMinh City University of Technology, HoChiMinh City, Viet Nam

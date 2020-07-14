@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <title>API - TRAIN MODEL</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />  
+           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+           <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>  
+           <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>  
+           <script type="text/javascript" src="https://cdn.datatables.net/r/bs-3.3.5/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script>
+  </head>
+  <body>
+    <h1>Upload file to train the model</h1>
+    <h3>Give name to new Representative</h3>
+    <form action="/predict">
+        <button type="submit">Go to predict</button>
+    </form>
+    <form action="/train" method="POST" enctype="multipart/form-data">
+        <input type="text" name="representative" placeholder="Representative name">
+        <select name="modelType">
+          <option value="scopus">Scopus</option>
+          <option value="isi">ISI</option>
+        </select>
+        <br>
+        <br>
+        <input type="file" name="file">
+        <input type="submit" value="TRAIN"> {% if message %} {{ message }} {% endif %}
+   </form>
+   <br /><br />  
+           <div class="container">  
+                <h1 align="center">Show JSON Data in Jquery Datatables</h3><br />  
+                <h3 align="center">Employee Database</h3><br />  
+                <table id="example" class="display" style="width:100%">
+                  <thead>
+                      <tr>
+                          <th>String</th>
+                          <th>Rep</th>
+                      </tr>
+                  </thead>
+              </table>
+           </div>
+
+   <!-- <div class="container">
+     <div class="table-responsive">
+       <h1>PICK ALL TRUE STRING</h1>
+       <br/>
+       <table class="table table-bordered table-striped" id="string_table">
+         <tr>
+           <th>String</th>
+           <th>Representative</th>
+           <th>is this true</th>
+         </tr>
+       </table>
+     </div> -->
+   <!-- </div> -->
+  </body>
+</html>
+
+<!-- <script>
+  $(document).ready(function(){
+    $.getJSON
+  });
+</script> -->
+
+<script>  
+$(document).ready(function() {
+  $.ajax({
+    "success": function(json){
+      
+    $('#example').DataTable( {
+        "columns": [
+            { "data": "string" },
+            { "data": "rep" },
+        ]
+    } )
+    }
+  })
+} );
+  </script>  

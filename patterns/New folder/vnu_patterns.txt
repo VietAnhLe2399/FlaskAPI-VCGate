@@ -1,0 +1,858 @@
+University of Engineering and Technology, Viet Nam
+Faculty of Chemistry, VNU University of Science, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+University of Social Sciences and Humanities, Hanoi, Viet Nam
+VNU Information Technology Institute, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), VNU-University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, 10000, Viet Nam
+HMI Lab, VNU Hanoi University of Engineering and Technology, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University in Hanoi, Viet Nam
+Center for Materials Science, University of Natural Science (VNU), Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh Tong, Hoankiem, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, 334 Nguyen Trai Street, Hanoi, 1000, Viet Nam
+Infrastructure Engineering Program, VNU Vietnam-Japan University, My dinh 1, Tu liem, Hanoi, Viet Nam
+Department of Mathematics, Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, 144 Xuan Thuy, Hanoi, 10000, Viet Nam
+Department of Mathematics, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Sciences, Vietnam National University, No. 334, Nguyen Trai Str., Thanh Xuan Dist, Hanoi, Viet Nam
+Department of Mathematics, College of Science, Vietnam National University, Hanoi, Viet Nam
+Department of Anthropology, Vietnam National University of Hanoi, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies, VNU, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science Hanoi (VNU-HUS), 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+University of Science, Vietnam National University Hanoi, Viet Nam
+Data Communication and Computer Networks, University of Engineering and Technology, Vietnam National University (VNU), Hanoi, Viet Nam
+Department of Mathematics, College of Science, Viet Nam National University, Ha Noi, Viet Nam
+Department of Software Engineering, VNU-University of Engineering and Technology, Hanoi, Viet Nam
+Department of Physics, Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Viet Nam
+National Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Vietnam National University, 334-Nguyen Trai St., Thanh Xuan, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology (KLEPT), VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Environmental Ecology, Faculty of Environmental Sciences, Vietnam National University, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, VNU University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19, Le Thanh Tong, Hanoi, Viet Nam
+The Information Technology Institute (ITI), Vietnam National University, Hanoi, Viet Nam
+Master's Program in Environmental Engineering, Vietnam Japan University, My Dinh 1, Nam Tu Liem, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics, and Informatics (MIM), Hanoi University of Science (HUS-VNU), Vietnam National University, No. 334, Nguyen Trai Road, Thanh Xuan, Hanoi, Viet Nam
+VNU Key Laboratory for Micro-nano Technology and Faculty of Physics Engineering and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies, Hanoi National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Physics, VNU-University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+VNU Key Laboratory of Geoenvironment and Climate change Response, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Political Economy, University of Economics and Business, Vietnam National University, Hanoi, Viet Nam
+Department of Information Technology, University of Engineering and Technology, Hanoi, Viet Nam
+HMI Lab, VNU University of Engineering and Technology, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam-Japan University (VJU), My Dinh 1, Tu LiemHanoi, Viet Nam
+Faculty of Information Technologies, VNU University of Engineering and Technology, Hanoi, Viet Nam
+Vietnam National University-Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, University of Engineering and Technology, Vietnam National University, Viet Nam
+Faculty of Chemistry, VNU University of Science Hanoi, 19 Le Thanh Tong, HoanKiem, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, 334, Nguyen Trai Street, Thanh Xuan District, Hanoi, 10000, Viet Nam
+Department of Cell Biology, Faculty of Biology, Hanoi University of Sciences, Viet Nam National University, 334 Nguyen Trai Road, Thanh Xuan District, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology (UET), 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Department of Anthropology, Vietnam National University, Hanoi, Viet Nam
+Hanoi University of ScienceHanoi, Viet Nam
+Hanoi National University, 334 Nguyen Trai Str. Than Xuan Dist., Hanoi, Viet Nam
+Department of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, 10000, Viet Nam
+VNU Hanoi University of Science, 334 Nguyen Trai, Hanoi, Thanh Xuan, Viet Nam
+VNU University of Science, Hanoi, 120036, Viet NamVNU Hanoi University of ScienceHanoi, Viet Nam
+Information Technology Institute, Vietnam National University, E3 Building, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU-UET, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam–Japan University (VJU), My Dinh 1, Tu Liem, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Thanh Xuan District, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, Vietnam National University, Hanoi, 122118, Viet Nam
+Vietnam National University, Hanoi University of Languages & International Studies, Viet Nam
+Faculty of Chemistry, VNU University of Science, National Vietnam University, 19 Le Thanh Tong, Hanoi, 100000, Viet Nam
+Department of Chemistry, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Vietnam National University, Hanoi University of Sciences, Hanoi, Viet Nam
+SISLAB, VNU University of Engineering and Technology (VNU-UET), 144 Xuan Thuy road Cau Giay dist., Hanoi, Viet Nam
+University of Technology and Engineering, Vietnam National University, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+Department of Environmental Ecology, Faculty of Environmental Science, Hanoi University of Science, VNU, Hanoi, Viet Nam
+Faculty of Chemistry, Department of Analytical Chemistry, Hanoi University of Science, Viennam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Department of Environmental Ecology, Faculty of Environmental Science, Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Political Economy, VNU University of Economics and Business, Hanoi, Viet Nam
+Department of Networks and Computer Communications, Faculty of Information Technology, VNU University of Engineering and Technology, Building E3, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Physics, Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, 10000, Viet Nam
+Faculty of Geology, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi VNUH, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Information Technology, VNU-University of Engineering and Technology, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Hanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University, Hanoi, 19 Le Thanh Tong ST, Hanoi, 10000, Viet Nam
+VNU University of Science, Department of Inorganic Chemistry, 19 Le Thanh Tong Street, Hoan Kiem District, Vietnam Hanoi, Viet Nam
+Physics Department, College of Natural Sciences, Vietnam National University, Hanoi, Viet Nam
+Faculty of Environmental Sciences and Central Institute for Natural Resources and Environmental Studies, Department of Environmental Ecology, Vietnam National UniversityHanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, 334, Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, VNU, University of Science, Hanoi, Viet Nam
+Vietnam National UniversityHanoi, Viet Nam
+Faculty of Electronics and Telecommunication, Vietnam National University-University of Engineering and Technology, Hanoi, 10000, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology, 144, Xuan Thuy, Cau GiayHanoi, Viet Nam
+VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+VNU Key Laboratory “Multiscale Simulation of Complex Systems”, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Hanoi University of Science, VNU, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334 Nguyễn Trãi Street, Hanoi, Viet Nam
+Department of Mathematics, VNU University of Science, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam National University (VNU), Institute of Vietnamese Studies and Development Science (IVIDES), 336 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University, Hanoi 19 Le Thanh Tong Street, Hanoi, 100000, Viet Nam
+SIS Laboratory, VNU University of Engineering and Technology, 144 Xuan Thuy road, Cau Giay district, Hanoi, Viet Nam
+CETASD, Hanoi University of Science, Hanoi, Viet Nam
+VNU Key Laboratory Multiscale Simulation of Complex Systems, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University – Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, University of Engineering and Technology, Vietnam National University, Building E3, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies, Hanoi National University, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+University of Engineering and Technology, National University of Hanoi, 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Geography, VNU University of Science, 334 Nguyen TraiThanh Xuan, Hanoi, Viet Nam
+Department of Physics, Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Biology, University of Science, Vietnam National University, Thanh Xuan District, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Hanoi School of Business, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Mathematics, Ha Noi University of Science, VNU, 334, Nguyen Trai Street, Ha Noi, Viet Nam
+VNU University of Science, Ha Noi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, VNU, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, 144, Xuan Thuy, Hanoi, 1000, Viet Nam
+Faculty of Environmental Sciences and Biology, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Faculty of Information Technology, VNUH University of Engineering and Technology, Hanoi, Viet Nam
+Department of Mathematics, College of Education, Vietnam National University, G7 Build., 144 Xuan Thuy Rd., Cau Giay dist., Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Hanoi Hanoi, Viet Nam
+VNU University of Engineering and Technology, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, 144 Xuan Thuy, Hanoi, Viet Nam
+University of Engineering and Technology, 144 Xuan Thuy Street, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Dept. of Mathematics, College of Education, Vietnam National University, 144 Xuan Thuy Rd., Cau Giay, Dist., Hanoi, Viet Nam
+Faculty of Environmental Science, VNU University of Science, Vietnam National University, Hanoi (VNU), 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Faculty of Electronics and Telecommunication, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, Vietnam National University Hanoi, 144 Xuan Thuy Street, Hanoi, Viet Nam
+Department of Mathematics, Mechanics, and Informatics (MIM), Hanoi University of Sciences (HUS-VNU), Vietnam National University, 334 Nguyen Trai Str., Thanh Xuan, Ha Noi, Viet Nam
+VNU - University of Engineering and Technology, Hanoi, Viet Nam
+University of Engineering of Technology, Viet Nam
+Faculty of Geography, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Center of Multidisciplinary, Integrated Technology for Field Monitoring, University of Engineering and Technology, VNUH, Hanoi, Viet Nam
+Vietnam and Graduate School of International Social Sciences, VNU - University of Economics and Business, 144 Xuan Thuy, Cau Giay, Hanoi, Hodogaya-ku, 2408501, Japan
+Faculty of Development Economics, VNU University of Economics and Business, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Faculty of Physics, College of Science, Ha Noi National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Department of Meteorology, Vietnam National University, Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi  10000, Viet Nam
+Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Osaka Prefecture University, Sakai, Osaka, 599-8531, Japan, VNU University of Science, Hanoi, 10000, Viet Nam
+Department of Meteorology and Climate Change, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Environmental Technology, Faculty of Environmental Sciences, VNU University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Biology, Vietnam National University of Science, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Hanoi, Viet Nam
+NU Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam National University, Hanoi, 144 Xuan Thuy Road, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, Hanoi, 19 Le Thanh Tong Street, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Thanh Xuan, Viet Nam
+Faculty of Chemistry, VNU - Hanoi University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Research Center for Environmental Monitoring and Modeling, University of Science–Vietnam National University, Hanoi, Viet Nam
+Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Viet Nam
+University of Science, Vietnam National University in Hanoi, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science (Vietnam National University), 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong Street, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of English Language Teacher Education, University of Languages and International Studies, Vietnam National University, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, Viet Nam
+SISLAB, VNU University of Engineering and Technology, 144 Xuan Thuy road, Cau Giay district, Hanoi, Viet Nam
+Department of Chemical Technology, Faculty of Chemistry, VNU Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan District Hanoi, 10000, Viet Nam
+International School (IS-VNU), Vietnam National University (VNU), Hanoi, Viet Nam
+Nano and Energy Center, VNU University of Science, 334 Nguyen Trai ,Thanh Xuan District, Hanoi, Viet Nam
+University of Science, Vietnam National University, Hanoi, Viet Nam
+VNU University of Science, Department of Inorganic Chemistry, 19 Le Thanh Tong Street, Hoan Kiem Discrict, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, 334 - Nguyen Trai Street, Hanoi, Viet Nam
+Faculty of Information Technology, University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Department of Vertebrate Zoology, Biological Museum, Faculty of Biology, Hanoi University of Science-Vietnam National University, Hanoi, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+ITI, Vietnam National University, Hanoi, Viet Nam
+Faculty of Environmental Sciences/Biology, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Department of Meteorology and Climate Change, VNU University of Science, Hanoi, Viet Nam
+Faculty of Information Technology, Department of Networks and Computer Communications, VNU University of Engineering and Technology, Building E3, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+University of Economics and Business (UEB), Vietnam National University, Hanoi, Viet Nam
+Central Institute for Natural Resources and Environmental Studies, Vietnam National University, Hanoi, Viet Nam
+VNU Univ. of Eng. and Technology, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Ha Noi, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Vietnam National University, 144 XuanThuy, CauGiay Hanoi, 100000, Viet Nam
+Department of Analytical Chemistry, Faculty of Chemistry, Hanoi University of Science, Vietnam National University − 19 Le Thanh Tong, Hanoi, Viet Nam
+Institute of Information Technology, MIST, VNU-University of Engineering and Technology, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi VNUH, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Mathematics, Hanoi University of Science, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University (VNU), Hanoi, Viet Nam
+Tran Anh Duc and Nguyen Xuan Quynh, Department of Invertebrate Zoology, Faculty of Biology, Hanoi University of Science (Vietnam National University, Hanoi), 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Laboratory for High Energy Physics and Cosmology, Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Environmental Sciences, VNU University of Science, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+Information Technology Department, Vietnam National University, Hanoi, 10000, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Vietnam National University, Hanoi, Viet Nam
+Institut Francophone International, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh To1ng, Hanoi, 100000, Viet Nam
+University of Science, Vietnam National University, 144 Xuân Thuỷ, Cầu Giấy, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334
+Hanoi School of Business, Vietnam National University, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Sciences, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi, 10000, Viet Nam
+Department of Maxilo-Stomatology, Vietnam National University School of Medicine and Pharmacy, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Vietnam National University, Hanoi, 100000, Viet Nam
+Faculty of Biology, Vietnam National University, University of Science, Thanh Xuan District, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi (VNU), 144 Xuan Thuy Street, Cau Giay, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunication (FET), University of Engineering and Technology (UET), Vietnam National University, Hanoi (VNUH), Viet Nam
+Department of Botany, Faculty of Biology, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+University of Languages and International Studies, Vietnam National University, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, Viet Nam
+Ha Noi University of Science, Viet Nam
+Faculty of Physics, University of Education, Viet Nam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay Hanoi, Viet Nam
+VNU - University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics (MIM), Hanoi University of Sciences (HUS-VNU), No. 334, Nguyen Trai Road, Hanoi, Thanh Xuan, Viet Nam
+VNU University of Science, Vietnam National University, Viet Nam
+Nano and Energy Center, Hanoi University of Science, VNU, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, VNU University of Engineering and Technology (VNU-UET), Hanoi, Viet Nam
+Nano and Energy Center, VNU Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science (Vietnam National University, Ha Noi), 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, 122000, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, Viet Nam
+Data Communication and Computer Networks, University of Engineering and Technology, VNU, Hanoi Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong, Ha Noi, 10000, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi – 144, Xuan Thuy – Cau Giay, Hanoi, Viet Nam
+Electronics and Telecommunications, University of Engineering and Technology, VNU-HN, Hanoi, Viet Nam
+Department of Pedology and Soil Environment, Faculty of Environmental Science, VNU University of Science, Vietnam National University, 334-Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Finance and Banking, University of Economics and Business, Vietnam National University, Viet Nam
+Faculty of Geography, Hanoi University of Science, Viet Nam
+Nano and Energy Center, VNU University of Science, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Viet Nam
+Faculty of Chemistry, University of Sciences, Hanoi National University, HANOI, Viet Nam
+Department of Invertebrate Zoology, Faculty of Biology, Hanoi University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Reseach Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science, 334, Nguyen Trai Road, Hanoi, Viet Nam
+Department of Biology and Key Laboratory of Enzyme and Protein Technology, College of Science, Vietnam National University, Hanoi, 10000, Viet Nam
+Information Technology Institute, Hanoi National University, 144 Xuan Thuy Boulevard, Cau Giay, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, Xuan Thuy, Hanoi, Viet Nam
+Department of Mathematics, College of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Environmental Science, VNU University of Science, Vietnam National University, 334-Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Science, VNU, Hanoi, Viet Nam
+VNU University of Education, Vietnam National University, Hanoi, 144 Xuan Thuy Road, Hanoi, Viet Nam
+VNU University of Science, 334 Nguyen Trai, ThanhXuan, Hanoi, Viet Nam
+VNU Univeristy of Science, Hanoi, 10000, Viet Nam
+VNU University of Engineering and Technology, Ha Noi City, Viet Nam
+Hanoi School of Business, Vietnam National University, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+VNU University of Science, Vietnam National University Hanoi, 334 Nguyen Trai Road, Thanh Xuan District, Hanoi, Viet Nam
+Department of Mathematics, Hanoi University of Sciences, Hanoi, Viet Nam
+Centre for Research, Information and Service in Psychology (CRISP), Vietnam National University, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Hanoi National University, Hanoi, Viet Nam
+Vietnam National University (VNU), VNU-University of Engineering and Technology (UET), No. 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Sociology, VNU-University of Social Sciences and Humanities, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi (VNU), Viet Nam
+University of Engineering and Technology, Vietnam National University, Viet Nam
+Laboratory for Weather and Climate Forecasting, Hanoi College of Science, Vietnam National University, Hanoi, 10000, Viet Nam
+Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU-University of Science, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, 334 Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+Department of Mathematics, College of Science, Viêt Nam National University, Hanoi, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Department of Mathematics, College of Science Viêt Nam National University, Hà Nôi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Hanoi. 19 Le Thanh Tong street, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Cau Giay, Viet Nam
+VNU University of Science Vietnam National University, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, Hanoi, Viet Nam
+Laboratory for Smart Integrated Systems (SISLAB), VNU University of Engineering and Technology, Hanoi, Viet Nam
+Department of Chemistry, Hanoi University of Science, 19 Le Thanh Tong Street, Hoan Kiem District, Hanoi, Viet Nam
+Faculty of Biology, Hanoi University of Science, Hanoi, Viet Nam
+Department of Meteorology, VNU Hanoi University of Science, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy Str., Cau Giay Distr., Hanoi, Viet Nam
+Vietnam National University, Hanoi, Viet Nam
+Nano and Energy Center, Hanoi University of Science, VNU, Hanoi, 120401, Viet Nam
+Faculty of Chemistry, Vietnam National University, Hanoi, 19 Le Thanh Tong St., Hanoi, Viet Nam
+Faculty of Environmental Sciences, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Advances Materials and Structures Laboratory, University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Research Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science, Hanoi, Viet Nam
+VNU University of Science (HUS), 334 Nguyễn Trãi Street, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Room 705, Building E4, No. 144, Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University in Hanoi, 144 Xuan Thuy, Hanoi, Viet Nam
+VNU University of Technology and Engineering, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Research Center for Environmental Monitoring and Modeling, University of Science Vietnam National University, Hanoi, Viet Nam
+Faculty of Chemistry, VNU-Hanoi University of Science, 19 Le Thanh Tong, Hanoi, Viet Nam
+Nano and Energy Center, VNU University of Science, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, Hanoi University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi (VNU) 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Organic Chemistry, Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Vietnam National University, Hanoi, 120564, Viet Nam
+Vietnam National University, Hanoi - University of Economics and Business, Faculty of Finance and Banking, 705 E4, 144 Xuanthuy, Caugiay Dist., Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU, Hanoi – University of Engineering and Technology, 144, Xuan Thuy Road, Cau Giay District, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, Hanoi, Room 100, Building E4, 144 Xuan Thuy, Cau Giay District, Hanoi, Viet Nam
+Vietnam National University, Dai Lo Thang Long, Hoa Lac, Thach That Ha Noi, Viet Nam
+Hanoi University of Science, DOJI Institute and Laboratory for Gemology and Jewelry, Viet Nam
+Faculty of International Business and Economics, University of Economics and Business, Vietnam National University, Hanoi, Viet Nam
+Faculty of Geology, Hanoi University of Science, Viet Nam
+Faculty of Environmental Science, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Faculty of Environmental Science, University of Science (VNU), No. 334 Nguyen Trai St., Thanh Xuan, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, Hanoi, 120036, Viet Nam
+VNU University of Science, Hanoi, 120036, Viet Nam
+College of Education, Vietnam National University at Hanoi, G7 Building, 144 Xuan Thuy Street, Cau Giay DistrictHanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi (VNU-H), Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Building E3, 144 Xuanthuy, Caugiay, Hanoi, Viet Nam
+Institute Francophone International (IFI), IRD, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Environmental Sciences, VNU University of Science, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology (UET-VNU), 144 Xuan Thuy, Cau Giay, Hanoi, 100000, Viet Nam
+VNU Hanoi University of Science, Hanoi, Viet Nam
+Vietnam National University, Hanoi, College of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam Japan University, Hanoi, Viet Nam
+Hanoi University of Science, Hanoi, VNU, Viet Nam
+Vietnam Institute for Economic and Policy Research (VEPR), 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+VNU-University of Engineering and Technology, Cau Giay, Viet Nam
+HMI Lab, University of Engineering and Technology, Vietnam National University Hanoi, Viet Nam
+University of Science, Vnu Hanoi, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Vietnam National University (VNU), Hanoi, Viet Nam
+Department of Meteorology, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+Vietnam National University Hanoi, Vietnam, Viet Nam
+VNU, University of Engineering and Technology, Viet Nam
+Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+Department of Geotechnics, Faculty of Geology, VNU University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam National University, Hanoi, 144, Viet Nam
+VNU Institute of Vietnamese Studies and Development Science, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi, Viet Nam
+Laboratory for Micro-Nano Technology, University of Engineering and Technology, VNUH, 144 Xuan Thuy street, Ha Noi, Viet Nam
+The Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Hanoi, Viet Nam
+Falculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Biology, Vietnam National University, VNU University of Science, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, University of Engineering and Technology, Vietnam National University, Viet Nam
+Centre for Natural Resources and Environmental Studies, Vietnam National University, Hanoi, 100000, Viet Nam
+Department of Sociology, Vietnam National University, Hanoi, Viet Nam
+VNU Key Laboratory “Multiscale Simulation of Complex Systems”, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+University of Engineering and Technology - Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Nanotechnology Program, Vietnam Japan University, Vietnam National University of Hanoi, My Dinh I, Hanoi, Viet Nam
+Hanoi National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Sociology, University of Social Sciences and Humanities, Vietnam National University, Hanoi, Viet Nam
+Faculty of Geology, Vietnam National University, Hanoi, Viet Nam
+Vietnam National University, 144 Xuan Thuy Road, Cau Giay District, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Faculty of Biology, National Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Hanoi, Viet Nam
+VNU Center for Urban Studies, Vietnam National University, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Research Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science (VNU), Hanoi, Viet Nam
+Department of Software Engineering, VNU University of Engineering and Technology, 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Vietnam National University, Hanoi, 10000, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, University of Engineering and Technology, Vietnam National University, Building E3, 144 Xuan Thuy, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi Hanoi, Viet Nam
+Foreign Languages Specialized School, University of Languages and International Studies, Hanoi National University, 2 Pham Van Dong, Cau Giay, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunication, VNU University of Engineering and TechnologyHanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, Hanoi 120000, Viet Nam
+Faculty of Electronics and Telecommunications, Vietnam National University, Hanoi 144 Xuan Thuy Street, Hanoi, Viet Nam
+K47A1T, Department of Mathematics, Mechanics and Informatics, College of Natural Sciences, Vietnam National University, 40 Nguyen Trai Road, Thanh Xuan District, Hanoi, Viet Nam
+College of Technology (UET), Vietnam National University, Hanoi (VNU), 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU University of Engineering and Technology, E3 Building, 144 Xuan Thuy Street, Cau Giay, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU, Hanoi University of Engineering and Technology (UET), 144-Xuan Thuy Cau Giay, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University (VNU), 144 Xuan Thuy, Hanoi, Viet Nam
+Departement Informatics, Faculty of Mathematics Mechanics Informatics, VNU University of Science, Viet Nam
+Faculty of Geology, Hanoi University of Science, 334 Nguyen Trai str., Thanh Xuan Dist., Hanoi, Viet Nam
+International School, Vietnam National University (VNU)Hanoi, Viet Nam
+Department of Pharmacognosy and Traditional Pharmacy, School of Medicine and Pharmacy, Vietnam National University, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies (CRES), Vietnam National University, Hanoi, 10000, Viet Nam
+Key Laboratory for Smart Integrated Systems, VNU University of Engineering and Technology, Hanoi, 123106, Viet Nam
+The Key laboratory of Enzyme and Protein Technology, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Department of Chemistry, VNU-Hanoi University of Science, 19 Le Thanh Tong Street, Ha Noi, Viet Nam
+Faculty of Physics, V N U University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, VNU University of Engineering and Technology, Hanoi, Viet Nam
+Hanoi School of Business and Management, Vietnam National University, B1-144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU Hanoi University of Science (HUS), Hanoi, Viet Nam
+Faculty of Biology, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Faculty of Geography, Vietnam National University, University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Chemical Technology, Faculty of Chemistry, VNU Hanoi University of Science, 334 Nguyen Trai Road, Thanh Xuan District, Hanoi, 10000, Viet Nam
+Center of Multidisciplinary Integrated Technology for Field Monitoring, University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam-Japan University, Tu Liem, Hanoi, Viet Nam
+Hanoi School of Business, Vietnam National University, 144 Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Computational Multiscale Material Modeling and Simulation Group, Nanotechnology Program, Vietnam Japan University, Vietnam National University of Hanoi, Vietnam-Australia Building, Luu Huu Phuoc Street, My Dinh I, Nam Tu Liem, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Hanoi, 123106, Viet Nam
+University of Engineering and Technology, Vietnam National University Ha Noi, Ha Noi, Viet Nam
+Infrastructure Engineering Program-VNU-Hanoi, Vietnam-Japan University (VJU), My Dinh 1, Tu Liem, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam Japan University (VJU), My Dinh 1 – Tu Liem, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, Faculty of Biology, VNU University of Science, Hanoi, Viet Nam
+VNU Key Laboratory Multiscale Simulation of Complex Systems, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Department of Meteorology and Climate Change, Hanoi College of Science, Vietnam National University, Hanoi, Viet Nam
+Center for Natural Resources and Environmental Studies (CRES), Vietnam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334-Nguyen Trai Street, Hanoi, Viet Nam
+Hanoi University of Science, Department of Geology, Hanoi, Viet Nam
+University of Languages and International Studies, Vietnam National University, Pham Van Dong Road, Hanoi, Viet Nam
+Vietnam National University, Faculty of Electronics and Telecommunications, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Research Centre for Environmental Technology and Sustainable Development (CETASD), VNU Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Department of Invertebrate Zoology, Faculty of Biology, Hanoi University of Science (Vietnam National University, Hanoi), 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Research Center for Environmental Technology and Sustainable Development, Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+University of Education, Vnu Hanoi, Viet Nam
+School of Business Administration, VNU University of Economics and Business Room, No. 307, E4 Building, 144 Xuan Thuy road, Cau Giay District, Hanoi, Viet Nam
+Faculty of Physics Engineering and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Center for Environmental Fluid Dynamics, Hanoi University of Science, Viet Nam
+Department of Mathematics, Vietnam National University at Hanoi, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU Vietnam-Japan University, My Dinh 1, Tu Liem, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, University of Engineering and Technology (VNUH), Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+The Centre for Environmental Technology and Sustainable Development, VNU University of Science, 334 Nguyen Trai Str., Thanh Xuan Dist., Ha Noi, Viet Nam
+School of Graduate Studies, Ha Noi National University, Hanoi, Viet Nam
+VNU-University of Social Sciences and Humanities, Vietnam National University-Hanoi, 336 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, No. 144 Xuan Thuy Street, Dich Vong Hau Ward, Cau Giay District Hanoi, Viet Nam
+HMI Lab, UET, Vietnam National University, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU, Hanoi, Vietnam-Japan University (VJU), My Dinh 1 Tu Liem, Hanoi, Viet Nam
+Department of Mathematics - Mechanics - Informatics (MIM), Hanoi University of Sciences (HUS-VNU), No. 334, Nguyen Trai Road, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+VNU University of Sciences, Hanoi, Viet Nam
+Institute of Microbiology & Biotechnology, Vietnam National University, E2, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+School of Economics, Vietnam National University, Hanoi, Viet Nam
+Group 'Medicinal Chemistry and Applied Natural Product' Faculty of Chemistry, VNU-HUS, 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+National Key Laboratory of Enzyme and Protein Technology, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Department of Physics, Hanoi University Sciences, Vietnam National University, 334-Nguyen Trai St., Thanh Xuan Dist., Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Elec. and Telecom., VNU Univ. of Eng. and Tech., Viet Nam
+Human Machine Interaction Laboratory, University of Engineering and Technology, VNU Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, 334-Nguyen Trai Street, Thanh Xuan, Ha Noi, 100000, Viet Nam
+University of Engineering and Technology, Vietnam National University, E3, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Pharmaceutics and Pharmaceutical Technology, School of Medicine and Pharmacy, Vietnam National University, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU - University Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+SIS Laboratory, VNU University of Engineering and Technology (VNU-UET), 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+International Francophone Institute, Vietnam National University, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Hanoi University of Sciences (HUS-VNU), No. 334, Nguyen Trai Road, Thanh Xuan, Hanoi, Viet Nam
+Electronics and Telecommunication Faculty, VNU University of Engineering and Technology, E3 building, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+VNU, University of Engineering and Technology, Ha Noi, Viet Nam
+Nano Magnetic Materials and Devices Department, Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, E3 Building, 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunication, University of Engineering and Technology, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong Street, Hoankiem, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+VNU University of Science, Hanoi, Viet Nam
+Constitutional and Administrative Law Department, School of Law, Vietnam National University, Hanoi, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University100000, Viet Nam
+Hanoi School of Business and Management, Vietnam National University, Hanoi, Viet Nam
+VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Geology, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Department of Educational Management, University of Education, Vietnam National University in Hanoi, 144 Xuanthuy Rd, Caugiay District, Hanoi, Viet Nam
+Department of Geology, Hanoi University of Science, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Faculty of Physics, VNU-University of Science, 334 Nguyen Trai, Ha Noi, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Office 506, Building Y1, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Faculty of Physics, VNU Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Viet Nam National University, 144 Xuan Thuy Street, Cau Giay, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Hanoi National University, 144 Xuan Thuy street, Cau Giay, Hanoi, Viet Nam
+Central Institute for Natural Resources and Environmental Studies, Hanoi National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Faculty of Electronics and Telecommunications, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Department of Biochemistry and Plant Physiology, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+University of Education, Vietnam National University Hanoi, Viet Nam
+Nano and Energy Center, VNU University of Science, Nguyen Trai, Hanoi, 334, Viet Nam
+Department of Nuclear Physics, Faculty of Physics, VNU University of Science, Vietnam National University, 334-Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+VNU Hanoi University of Science, Nguyen Trai, Thanh Xuan, Hanoi, 334, Viet Nam
+Faculty of Biology, VNU University of Science, Nguyen Trai, Hanoi, 334, Viet Nam
+VNU Hanoi University of ScienceHanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University Hanoi, 19 Le Thanh Tong ST, Hanoi, 10999, Viet Nam
+Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Physics Faculty, Vietnam National University - University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Faculty of Physics, University of Natural Science, Hanoi National University, Hanoi, Viet Nam
+Department of Chemistry, Hanoi University of Science, 19 Le Thanh Tong, Hanoi, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology, Hanoi, Viet Nam
+VNU-University of Engineering and Technology (UET), 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Development Economics, University of Economics and Business, Vietnam National University, Hanoi, Viet Nam
+Hanoi University of Social Sciences and Humanities, Vietnam National University-Hanoi, 336 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Meteorology and Climate Change, Vietnam National University, Hanoi University of Science, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai Road, Thanh Xuan District, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, 334 Nguyentrai, Thanhxuan, Hanoi, Viet Nam
+Department of Marine Science and Technology, VNU University of Science, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Hanoi, 144 Xuan Thuy Street, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, VNU-University of Science, Vietnam National University-Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, 10000, Viet Nam
+Department of Mathematics, Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+Faculty of Engineering Physics and Nano-Technology, University of Engineering and Technology, Vietnam National University, Hanoi, Cau Giay District, Hanoi City, 100000, Viet Nam
+Department of Geotechnics, Faculty of Geology, VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology, Cau Giay, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), Ha Noi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+VNU, University of Engineering and Technology, Cau Giay, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies, Vietnam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Viet Nam
+University of Technology and Engineering, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Hanoi, Viet Nam
+Vietnam Japan University, My Dinh 1, Nam Tu Liem, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Department of Software Engineering, VNU - University of Engineering and Technology, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science, Nguyen Trai Street 334, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Vietnam National University, 334, Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+Department of Mathematics, College of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Physics, VNU-Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi, Office 506, Building Y1, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Department of Mathematics, College of Science, Vietnam National University, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nano-Technology, University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Pharmacology and Clinical Pharmacy, School of Medicine and Pharmacy, Vietnam National University, Hanoi, Viet Nam
+Department of Software Engineering, VNU - University of Engineering and Technology, 144 Xuan Thuy, Hanoi, Viet Nam
+Department of Political Economy, VNU University of Business and Economics, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334 - Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+Faculty of Technical Physics and Nanotechnology, VNU-University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+Faculty of International Business and Economics, University of Economics and Business, Vietnam National University – Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Electronics and Telecommunication, University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Institute Francophone International, Vietnam National University, IRD, UMI 209 UMMISCO, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, 334, Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+School of Pharmacy, Vietnam National University, Viet Nam
+Department of Mathematics, College of Science, Viêt Nam National University, Hà Nôi, Viet Nam
+University of Economics and Business, Vietnam National University, Hanoi, Building E4, 144 Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Falculty of Environmental Science, VNU - Hanoi University of Science, Nguyen Trai, Hanoi, 334, Viet Nam
+Vietnam National University Hanoi (VNU), Hanoi, Viet Nam
+Vietnam National University, No. 144 Xuan Thuy St, Cau Giay District, Hanoi, 10000, Viet Nam
+Vietnam National University in Hanoi, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics, and Informatics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology (KLEPT), VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+VNU Key Laboratory for Micro-Nanotechnology, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Geology, Hanoi University of Science, 334 Nguyen Trai str., Thanh Xuan Dist. Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, Building E4, No. 144, Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Vietnam National University of Science, Hanoi, Viet Nam
+High School for Gifted Students, VNU University of Science, Hanoi, Viet Nam
+Hanoi School of Business and Management (HSB), Vietnam National University (VNU), Viet Nam
+VNU-University of Engineering and Technology, Hanoi, Viet Nam
+Centre for Natural Resources and Environmental Studies, Vietnam National University, 19 Le Thanh Tong Street, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development, Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Vietnam National University, Hanoi, Viet Nam
+Faculty of Business Administration, Faculty of Development Economics, University of Economics and Business, Vietnam National University, E4 Building, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Analytical Chemistry, Faculty of Chemistry, VNU University of Science, Vietnam National University, Hanoi – 19 Le Thanh Tong, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, Vietnam National University, Hanoi, 10000, Viet Nam
+VNU - University of Economics and Business, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Physics, Hanoi National University, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Biology, VNU University of Science, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Vietnam National University of Hanoi, 144 Xuan Thuy, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Cau Giay, Hanoi, Viet Nam
+Vietnam National University, School of Medicine and Pharmacy, Hanoi, Viet Nam
+VNU Univ. of Science, Thanh Xuan, Hanoi, Viet Nam
+International School, Vietnam National University in Hanoi, 144 Xuan Thuy St., Cau Giay District, Hanoi, Viet Nam
+Department of Pharmaceutical Chemistry, Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, 100000, Viet Nam
+VNU University of Science, 334 Nguyen Trai Str., Thanh Xuan Dist, Ha Noi, Viet Nam
+Department of Sociology, Vietnam National University, 336 Nguyen Trai, Thanh Xuan, Hanoi, 10000, Viet Nam
+Faculty of Environmental Sciences, VNU- Hanoi University of Science, Viet Nam
+University of Economics and Business, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+University of Engineering and Technology Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Biology Department, Vietnam National University, Ha Noi, 10999, Viet Nam
+Faculty of Mathematics,Mechanics,and Informatics, University of Science-VNU, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+University of Education, Viet Nam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University Hanoi, E3, 144 XuanThuy, CauGiay, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, 100000, Viet Nam
+Faculty of Physics, College of Science, Hanoi National University, 334 Nguyen Trai road, Hanoi, Viet Nam
+Vietnam National University, Hanoi (VNU), University of Engineering and Technology (UET), 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334 - Nguyen Trai Street, Ha Noi, Viet Nam
+School of Medicine and Pharmacy, Viet nam National University, Hanoi, Viet Nam
+Infrastructure Engineering Program, VNU-Hanoi, Vietnam-Japan University (VJU), My Dinh 1, Tu Liem, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, Hanoi, Viet Nam
+Department of Chemical Technology, Faculty of Chemistry, VNU University of Science, Vietnam National University, Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, 144 Xuan Thuy, Cau Giay, Hanoi, 10000, Viet Nam
+Institute of Information Technology, VNU, Viet Nam
+Department of Chemistry, VNU—Hanoi University of Science, 19 Le Thanh Tong Street, Ha Noi, Viet Nam
+Information Technology Institute, Vietnam National University, 144, Xuan Thuy, Hanoi, Viet Nam
+Faculty of Chemistry, University of Science, Vietnam National University, 19 LeThanh Tong Hoan Kiem, Hanoi, Viet Nam
+Center for Materials Science, Faculty of Physics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU-University of Enginerring and Technology, 144 Xuan Thuy, Ha Noi, Viet Nam
+Key Laboratory for Micro-nano Technology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, Hanoi, Viet Nam
+VNU-University of Engineering and Technology, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+Department of Mathematics, Mechanics, and Informatics (MIM), Hanoi University of Sciences (HUS-VNU), Vietnam National University, 334 Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+Laboratory for Micro-Nano Technologies, Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Department of Physics, College of Natural Sciences, Hanoi National University, Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, Vietnam 334 Nguyen Trai, Hanoi, Thanh Xuan, Viet Nam
+Human Machine Interaction, University of Engineering and Technology, VNU Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of Science, Hanoi, Viet Nam
+Department of Microbiology, Vietnam National University, Hanoi, Viet Nam
+Vietnam National University, Ha Noi, Viet Nam
+Faculty of Geology, VNU University of Science, Hanoi, Viet Nam
+Department of Theoretical Physics, Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam Institute for Economic and Policy Research, 144 Xuan Thuy Street, Cau Giay, Hanoi, Viet Nam
+Research Centre for Environmental Technology and Sustainable Development, Hanoi University of Science, Vietnam National University, Hanoi, Vietnam, Viet Nam
+Information Technology Institute, VNU University, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, Room 100, Building E4, No. 144, Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh Tong, Hanoi, 100000, Viet Nam
+Ha Noi University of Science, Ha Noi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 334 Nguyen Trai, Thanhxuan, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, VNU, 19 Le Thanh Tong Street, Hoan Kiem District, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, Hanoi, 120000, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU-University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Semiconducting Nanomaterials and Devices, University of Engineering and Technology, Hanoi National University, Hanoi, Viet Nam
+Center for Environmental Technology and Sustainable Development, Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Faculty of Chemistry, VNU Hanoi University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), VNU University of Science, Nguyen Trai Street 334, Hanoi, Viet Nam
+Institute for Education Quality Assurance, Vietnam National University, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, 144 Xuan thuy, Cau Giay, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Hanoi University of Science-VNU, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Electronics and Telecommunications, VNU University of Engineering and Technology, Viet Nam
+Department of Mechanical Engineering and Automation, Vietnam National University, 144-Xuan Thuy, Cau Giay, Hanoi, 84, Viet Nam
+Machine Interaction Laboratory, University of Engineering AndTechnology, VNU Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University at Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Center for Materials Science, University of Natural Science, VNU, Hanoi, Viet Nam
+Viet Nam National, Hanoi, Viet Nam
+Center for Materials Science, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Vietnam National University, 334 Nguyen Trai Str., Hanoi, Viet Nam
+International Centre for Advanced Research on Global Change, Vietnam National University, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, Thanh Xuan District, Ha Noi City, Viet Nam
+Research Center for Environmental Monitoring and Modeling, Hanoi University of Science - Vietnam National University, Hanoi, Viet Nam
+Human Machine Interaction Laboratory, University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Engineering Mechanics and Automation, Vietnam National University, Ha Noi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+University of Science, Vietnam National University, Ha Noi, 144 Xuan Thuy, Cau Giay, Hanoi, 10000, Viet Nam
+University of Education, Vietnam National University Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU Key Laboratory for Smart Integrated Systems (SISLAB), VNU University of Engineering and Technology, Hanoi, Viet Nam
+University of Languages and International Studies Vietnam National University, Hanoi, No. 2 Pham Vang Dong Road, Cau Giay District, Hanoi, Viet Nam
+Knowledge Technology Laboratory, University of Engineering and Technology, Vietnam National University Hanoi, Viet Nam
+Center for Materials Science, Faculty of Physics, VNU University of Science, Nguyen Trai, Hanoi, 334, Viet Nam
+University of Science, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Chemistry, VNU-University of Science, Vietnam National University, Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, 10000, Viet Nam
+VNU Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Geology, University of Science, Hanoi, Viet Nam
+Faculty of Political Economy, University of Economics and Business, Vietnam National University, Hanoi, Room 100, Building E4, 144 Xuan Thuy Road, Cau Giay District, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong Street, Hoan Kiem District, Hanoi, Viet Nam
+University of Engineering and Technology (UET), Vietnam National University in Hanoi (VNUH), 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, 110000, Viet Nam
+Department of Computational and Applied Mathematics, College of Science, Vietnam National University, 334 Nguyen Trai street, Thanh Xuan dist., Hanoi, Viet Nam
+Department of Geotechnics, VNU University of Science, Vietnam National University, Viet Nam
+VNU - University of Engineering and Technology, Hanoi, Viet Nam, E3, 144 XuanThuy, CauGiay, Hanoi, Viet Nam
+VNU University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Department of Mathematics, College of Education, Viet Nam National University, 144 Xuan Thuy Rd., Cau Giay Dist., Hanoi, Viet Nam
+VNU University of Science, Vietnam National University, Vietnam, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Biology, Vietnam National University − University of Science, Hanoi, Viet Nam
+International School, Vietnam National University, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, P407 - E4 - 144 Xuan Thuy - Cau Giay, Hanoi, Viet Nam
+Advanced Materials and Structures Lab, University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi – University of Engineering and Technology (UET), 144 – Xuan Thuy – Cau Giay, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics, and Informatics, Vietnam National University, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy, Cau Giay District, Hanoi, Viet Nam
+Hanoi University of Science, 19 Le Thanh Tong Road, Ha Noi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, Viet Nam
+Faculty of Environmental Sciences, Hanoi University of Science, Vietnam National University, Hanoi City, Viet Nam
+VNU Key Laboratory 'Multiscale Simulation of Complex Systems', VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+International School (VNU-Is), Vietnam National University (VNU), Hanoi, Viet Nam
+Department of Computer Science, VNU University of Engineering and Technology, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, University of Engineering and Technology, Vietnam National University, 144-Xuan Thuy Street, Hanoi, Vietnam., Viet Nam
+University of Economics and Business, Vietnam National University, No. 144, Xuan Thuy Road, Cau Giay District, Hanoi, Viet Nam
+Department of Environmental Technology, VNU University of Science, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, 10000, Viet Nam
+Faculty of Chemistry, VNU Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+Centre for Second Language Education Research and Quality Assurance, Vietnam National University, Hanoi, Viet Nam
+Department of Solid State Physics, VNU University of Science, Hanoi, Viet Nam
+Center for High Performance Computing, Hanoi University of Science, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, Vietnam National University, Hanoi, Viet Nam
+VNU University of Engineering and Technology, Ha Noi, Viet Nam
+VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Hanoi, Viet Nam
+Department of Chemical and Environmental Engineering, Viet Nam National University, Hanoi, Hanoi, Viet Nam
+Department of Natural Science, Information Technology Institute, Vietnam National University, 144, Xuan Thuy, Hanoi, Viet Nam
+Nano and Energy Center, Vietnam National University, Hanoi, Viet Nam
+Department of Mechanical Engineering and Automation, Vietnam National University, Hanoi, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Hanoi National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+Faculty of Information Technology, VNU University of Engineering and Technology, 144 Xuan Thuy, Hanoi, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU-University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+VNU Key Laboratory for Multiscale Simulation of Complex Systems, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Department of Cell Biology, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Faculty of Physics, VNU-Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+Vietnam National University, Hanoi (VNU), 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+VNU-UET, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University, 19 Le Thanh Tong Street, Hanoi, Viet Nam
+Foreign Languages Specialized School, University of Languages and International Studies, Hanoi National University, Hanoi, Viet Nam
+Faculty of International Business and Economics, Vietnam National University, Hanoi, Viet Nam
+Faculty of Physics, Vietnam National University – University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU-University of Engineering and Technology, 144 Xuan Thuy, Ha Noi, Viet Nam
+Faculty of Linguistics and Cultures of English Speaking Countries, University of Languages and International Studies, Hanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University Hanoi, 19 Le Thanh Tong Street, Hanoi, 100000, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuanthuy, Caugiay, Hanoi, Viet Nam
+VNU, University of Engineering and Technology, Hanoi, Viet Nam
+Faculty of Information Technology, University of Engineering and Technology, VNU, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, Ha Noi, 844, Viet Nam
+Department of Analytical Chemistry, Faculty of Chemistry, Hanoi University of Science, Vietnam National University, Hanoi - 19 Le Thanh Tong, Hanoi, Viet Nam
+Hanoi School of Business, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, Viet Nam
+Faculty of Electronics and Telecommunications, VNU-University of Engineering and Technology, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, 144 Xuan Thuy, Cau Giay, Hanoi, 10000, Viet Nam
+VNU University of Engineering and Technology, Hanoicity, Viet Nam
+Faculty of Hydrology, Meteorology and Oceanography, Vietnam National University, Hanoi, Viet Nam
+Center for Materials Science, Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Information Technology Institute, Vietnam National University, Hanoi144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Key Laboratory for Smart Integrated Systems (SISLAB), VNU University of Engineering and Technology, Vietnam National University, 144 Xuan Thuy road, Cau Giay, Hanoi, Viet Nam
+International School (also with International Francophone Institute), Vietnam National University (VNU), Hanoi, Viet Nam
+Dept. of Networks and Computer Communications, University of Engineering and Technology, VNU-HN Hanoi, Viet Nam
+E3, 144 XuanThuy, CauGiay, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, Hanoi, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+VNU University of Linguistic and International Studies, Viet Nam
+Department of Meteorology and Climate Change, Vietnam National University, 334 NGUYĚN TRAI, Thanh Xuan, Hanoi, Viet Nam
+University of Economics and Business, Vietnam National University, 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Environmental Technology, VNU, Hanoi University of Science, Hanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Hanoi, Thanh Xuan, Viet Nam
+University of Education, Vietnam National University in Hanoi, Viet Nam
+Human Machine Interaction Laboratory, University of Engineering AndTechnology, VNU Hanoi, Viet Nam
+IFI, VNU, Hanoi, Viet Nam
+International School (VNU-IS), Vietnam National University (VNU), Hanoi, Viet Nam
+Department of Engineering Mechanics and Automation, Vietnam National University, 144 XuanThuy Rd., CauGiay, Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National UniversityHanoi, Viet Nam
+Faculty of Biology, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Geography, VNU University of Science, Hanoi, Viet Nam
+Center of Multidisciplinary Integrated Technology for Field Monitoring University of Engineering and Technology, VNUH, Hanoi, Viet Nam
+Faculty of Environmental Science, VNU University of Science, Vietnam National University, Hanoi (VNU), 334-Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University, 19 Le Thanh Tong St., Hanoi, Viet Nam
+Vietnam Institute for Economic and Policy Research (VEPR), University of Economics and Business (UEB), Vietnam National University Ha Noi (VNU), Viet Nam
+Department of Mathematics, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi (VNU), 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi, Office 506, Building Y1, 144 XuanThuy, Cau Giay, Ha Noi, Viet Nam
+Mangrove Ecosystem Research Division (MERD), Centre for Natural Resources and Environmental Studies (CRES), Vietnam National University (VNU), 19 Le Thanh Tong, Ha Noi, Viet Nam
+Department of Mathematics, College of Education, Vietnam National University, Hanoi, Viet Nam
+K47A1T, Department of Mathematics, Mechanics and Informatics, College of Natural Sciences, Vietnam National University, 40 Nguyen Trai road, Thanh Xuan District, Hanoi, Viet Nam
+University of Science (HUS), Vietnam National University, Hanoi, Viet Nam
+University of Business and Economics, Vietnam National University, Hanoi, Viet Nam
+Department of Biochemistry and Plant Physiology, Faculty of Biology, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan, Hanoi, 120564, Viet Nam
+Department of Mathematics - Mechanics and Informatics, Vietnam National University, Hanoi, Viet Nam
+Department of Engineering Mechanics and Automation, Vietnam National University, Hanoi 144 Xuanthuy Road, Caugiay, Hanoi, Viet Nam
+Department of Genetics, Faculty of Biological Sciences, Vietnam National University in Hanoi, 334 Nguyen Trai St., Thanh Xuan, Hanoi, Viet Nam
+Faculty of Mathematics Mechanics and Informatics, Vietnam National University, Hanoi, Viet Nam
+Vietnam National University, University of Science, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, 100000, Viet Nam
+Department of Mathematics-Mechanics-Informatics (MIM), Hanoi University of Sciences (HUS-VNU), No 334, Nguyen Trai Road, Thanh Xuan, Hanoi, Viet Nam
+Center for Environmental Technology and Sustainable Development (CETASD), VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Vietnam National University, Viet Nam
+Faculty of Environmental Sciences, VNU University of Science, Hanoi, Viet Nam
+Faculty of Business Administration, University of Economics and Business, Vietnam National University, Hanoi 301, E4, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Electronics and Telecommunications Center, VNU University of Engineering and Technology, Viet Nam
+Center for Environmental Technology and Sustainable Development, VNU University of Science, 334 Nguyen Trai Street, Thanhxuan, Hanoi, Viet Nam
+VNU University of Engineering and Technology, 144 Xuan Thuy Road, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, Vietnam National University, Hanoi, Viet Nam
+Faculty of Mathematics - Mechanics - Informatics, VNU - Hanoi University of Science, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), Hanoi University of ScienceHanoi, Viet Nam
+Information Technology Institute, Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National UniversityHanoi, Viet Nam
+Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Management Sciences, Institute of Policy and Management (IPAM), VNU-University of Social Sciences and Humanities Hanoi, 336 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam National University in Hanoi, Viet Nam
+Department of Biochemistry and Plant Physiology, Faculty of Biology, VNU-University of Science, Vietnam National University-Hanoi, Nguyen Trai Street, Hanoi, Viet Nam
+Department of Biochemistry and Plant Physiology, Faculty of Biology, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Center of Multidisciplinary Integrated Technology for Field Monitoring, University of Engineering and Technology, VNUH, Hanoi, Viet Nam
+Hanoi University of Science, Viet Nam
+Faculty of Chemistry, VNU University of Science, Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+University of Engineering and Technology (UET), Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Cau Giay Hanoi (VNU), 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Chemistry, VNU University of Science, Vietnam National University Hanoi, 19 Le Thanh Tong, Hoankiem, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics, and Informatics, University of Science-VNU, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+University of Education - Vietnam National University, Ha Noi, Viet Nam
+University of Engineering and Technology, Hanoi, Viet Nam
+Key Laboratory of Enzyme and Protein Technology, VNU University of Science, Nguyen Trai, Hanoi, 334, Viet Nam
+Advanced Materials and Structures Laboratory, University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Department of Invertebrate Zoology, Faculty of Biology, Hanoi University of Science (Vietnam National University, Hanoi), Nguyen Trai, Thanh Xuan, Hanoi, 334, Viet Nam
+VNU University of Science, Vietnam National University, Hanoi, Nguyen Trai, Hanoi, Viet Nam
+Vietnam-Japan University, Vietnam National University, Hanoi, Viet Nam
+Faculty of Engineering Physics and Nanotechnology, VNU University of Engineering and Technology, Vietnam National University, Hanoi, Viet Nam
+Hanoi University of Science, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+Nano and Energy Center, VNU University of Science, Vietnam National University, 334 Nguyen Trai Street, Thanh Xuan District, Hanoi, Viet Nam
+University of Education, Vietnam National University, Viet Nam
+Department of Networks and Communication Systems, Electronics and Telecommunication Faculty, VNU University of Engineering and Technology (VNU-UET), Hanoi, Viet Nam
+University of Engineering and Technology, Vietnam National University, Hanoi, 144 Xuan Thuy, Cau Giay, Ha Noi, Viet Nam
+University of Engineering and Technology, Vietnam National University in Hanoi, Hanoi, Viet Nam
+Department of Botany, Faculty of Biology, VNU University of Science, Vietnam National University, Hanoi, Viet Nam
+Center for Environmental Technology and Sustainable Development, VNU University of Science, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Department of Pharmacy, School of Medicine and Pharmacy, Vietnam National University, Hanoi, Viet Nam
+Vientnam National University, Dich Vong Hau, Cau Giay, Ha Noi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Vietnam National University, Hanoi, 100000, Viet Nam
+University of Engineering Technology, Vietnam National University, Hanoi, Viet Nam
+Department of Nuclear Physics, Faculty of Physics, VNU University of Science, Hanoi, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics, Hanoi University of Science, VNU Hanoi, Hanoi, Viet Nam
+Infrastructure Engineering Program -VNU-Hanoi, Vietnam-Japan University (VJU), My Dinh, 1 – Tu Liem, Hanoi, Viet Nam
+Center for Business Administration Studies, VNU University of Economics and Business, E4 Building, 144 Xuan Thuy road, Cau Giay District, Hanoi, Viet Nam
+Center for Business Administration Studies, VNU University of Economics and Business, Room No. 307, E4 Building, 144 Xuan Thuy road, Cau Giay District, Hanoi, Viet Nam
+Nano and Energy Center, VNU University of Science, 334 Nguyen Trai, Thanh Xuan District, Hanoi, Viet Nam
+Department of Geotechnics, Faculty of Geology, VNU University of Science, Vietnam National University, Hanoi, 334 Nguyen Trai street, Thanh Xuan, Hanoi, Viet Nam
+School of Medicine and Pharmacy, Vietnam National University, Hanoi (VNU) 144 Xuan Thuy, Cau Giay, Hanoi, 100000, Viet Nam
+University of Education, Vietnam National University, Hanoi, Viet Nam
+Department of Software Engineering, VNU University of Engineering and Technology, Hanoi, Viet Nam
+University of Engineering and Technology, Hanoi National University, Viet Nam
+Research Center for Environmental Monitoring and Modeling, VNU University of Science, 334 Nguyen Trai Street, Hanoi, Viet Nam
+Chemistry Department, University of Natural Science, Hanoi National University, Viet Nam
+Department of Physics, College of Natural Sciences, Hanoi National University, 334 Nguyen Trai, Thanh Xuan Hanoi, Viet Nam
+Department of Information System, VNU University of Engineering and Technology, Hanoi, Viet Nam
+VNU University of Science, Hanoi, 10000, Viet Nam
+Faculty of Information Technology, University of Engineering and Technology, Hanoi, Viet Nam
+Advanced Materials and Structures Laboratory, VNU-Hanoi, University of Engineering and Technology (UET), 144, Xuan Thuy, Cau Giay, Hanoi, Viet Nam
+Faculty of Chemistry, Hanoi University of Science, Vietnam National University of Science Hanoi, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Department of Mathematics, Vietnam National University, 334-Nguyen Trai Street, Ha Noi, Viet Nam
+Faculty of Physics, VNU University of Science, Vietnam National University, Nguyen Trai, Thanh Xuan, Hanoi, 334, Viet Nam
+VNU University of Science, Viet Nam
+Vietnam National University, 144 Xuan Thuy, Hanoi, Viet Nam
+Faculty of Business Administration, University of Economics and Business, Vietnam National University, Hanoi, Viet Nam
+Department of Anthropology, College of Social Sciences and Humanities, Vietnam National University, Hanoi, Viet Nam
+Institute of Microbiology and Biotechnology, Vietnam National University, Hanoi, Viet Nam
+Department of Geography, VNU University of Science, Viet Nam
+Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+VNU Key Laboratory of Geoenvironment and Climate change Response, Hanoi, Viet Nam
+Hanoi University of Science, 19-Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Hanoi University of Science, Hanoi, Viet Nam, Viet Nam
+Department of Mathematics, Mechanics and Informatics, Vietnam National University, No. 144 Xuan Thuy Street, Cau Giay District, Hanoi, Viet Nam
+Centre for Environmental Technology and Sustainable Development (CETASD), VNU Hanoi University of Science, 334 Nguyen Trai, Hanoi, Viet Nam
+University of Social Sciences and Humanities (USSH), Vietnam National University (VNU), Hanoi, Viet Nam
+Faculty of Biology, Hanoi University of Science (HUS), Vietnam National University (VNU), Hanoi, Viet Nam
+Medicinal Chemistry Laboratory, Faculty of Chemistry, VNU-HUS, 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+Electronics and Telecommunications Center, Faculty of Electronics and Telecommunications University of Engineering and Technology, Viet Nam National University, Ha Noi, Viet Nam
+Faculty of Biology, Vietnam National University University of Science, Hanoi, Viet Nam
+University of Social Sciences and Humanities, Viet Nam
+Center for Environmental Technology and Sustainable Development, Hanoi University of Science, Viet Nam
+College of Science, Vietnam National University, Hanoi, Viet Nam
+Department of Chemical Technology, Faculty of Chemistry, Hanoi University of Science (HUS), Vietnam National University (VNU), 334 Nguyen Trai, Thanh Xuan District, Hanoi, 10000, Viet Nam
+Department of Inorganic Chemistry, VNU University of Science, 19 Le Thanh Tong, Hanoi, Viet Nam
+Faculty of Physics, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Department of Chemical Technology, VNU Hanoi University of Science, 19 Le Thanh Tong, Hoan Kiem, Hanoi, Viet Nam
+Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Ha Noi, Viet Nam
+University of Engineering and Technology, VNU, Viet Nam
+Faculty of Mathematics, Mechanics and Informatics Hanoi University of Science 334, Nguyen Trai Str., Thanh Xuan, Hanoi, Viet Nam
+Key Laboratory of Geoenvironment and Climate Change Response, VNU University of Science, 334, Nguyen Trai Street, Thanh Xuan District, Hanoi, 10000, Viet Nam
+University of Education, Vietnam National University, Hanoi, 144 Xuan Thuy Road, Hanoi, Viet Nam
+VNU, University of Science, Hanoi, Viet Nam
+University of Engineering and Technology, VNU-Hanoi, Viet Nam
+Faculty of Electronics and Telecommunications, VNU University of Engineering and Technology, HANOI, Viet Nam
+University of Transport Technology, Thanh Xuan, Viet Nam, VNU University of Engineering and Technology, Cau Giay, Viet Nam
+Faculty of Environmental Sciences, Hanoi University of Science, Vietnam National University, 334 Nguyen Trai Road, Hanoi, Viet Nam
+Faculty of Geology, VNU University of Science, Vietnam National University, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Vietnam National University (VNU), University of Engineering and Technology (UET), Hanoi, Viet Nam
+VNU Key Laboratory for Smart Integrated Systems, VNU University of Technology and Engineering, Hanoi, Viet Nam
+University of Engineering and Technology, Ha Noi, Viet Nam
+VNU, University of Science, Ha Noi, Viet Nam
+Laboratory of High Energy Physics and Cosmology, Faculty of Physics, VNU University of Science, 334 Nguyen Trai, Thanh Xuan, Hanoi, Viet Nam
+Faculty of Chemistry, VNU-HUS, 19 Le Thanh Tong, Hoan Kiem, Ha Noi, Viet Nam
+University of Engineering and Technology, VNU, Hanoi, Viet Nam
+Faculty of Information Technology, University of Engineering and Technology, VNUH, Hanoi, Viet Nam
+Central Institute for Natural Resources and Environmental Studies, Vietnam National University, 19 Le Thanh Tong, Hanoi, Viet Nam
+Department of Mechanical Engineering and Automation, Vietnam National University, 144-Xuan Thuy, Cau Giay, Hanoi 84, Viet Nam
+University and Engineering and Technology, Vietnam National University, Hanoi, Viet Nam

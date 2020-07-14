@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>API TEST</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <h1>Something to write down</h1>
+    <form action="/train">
+      <button type="submit">Go to train</button>
+    </form>
+    <h4>Test model</h4>
+    <form action="/predict" method="POST" enctype="multipart/form-data">
+        <input type="text" name="text" placeholder="Text here">
+        <input type="submit" value="Predict"> {% if label %} {{ label }} {% endif %}
+   </form>
+  </body>
+</html>
